@@ -27,6 +27,7 @@ import time
 import hashlib
 import unicodedata
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from urllib.parse import quote_plus
 
 import xml.etree.ElementTree as ET
@@ -35,6 +36,7 @@ import requests
 STATE_FILE = "seen_state.json"
 KEYWORDS_FILE = "keywords.txt"
 MAX_AGE_DAYS = 7          # cuánto tiempo se conserva un ID en el estado antes de olvidarlo
+MAX_NEWS_AGE_HOURS = 24   # solo se alerta sobre lo publicado en las últimas 24 horas
 REQUEST_TIMEOUT = 20
 USER_AGENT = "Mozilla/5.0 (compatible; KeywordMonitorBot/1.0; +https://github.com/)"
 
@@ -90,6 +92,42 @@ def matches_keyword(text, keyword):
     return normalize(keyword) in normalize(text)
 
 
+def parse_rfc822_date(date_str):
+    """Parsea el formato de fecha de Google News RSS (RFC 822), p.ej.
+    'Mon, 14 Sep 2026 13:59:43 GMT'. Devuelve None si no se puede parsear."""
+    if not date_str:
+        return None
+    try:
+        dt = parsedate_to_datetime(date_str)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def parse_gdelt_date(date_str):
+    """Parsea el formato de fecha de GDELT, p.ej. '20260914T135943Z'."""
+    if not date_str:
+        return None
+    try:
+        dt = datetime.strptime(date_str, "%Y%m%dT%H%M%SZ")
+        return dt.replace(tzinfo=timezone.utc)
+    except Exception:
+        return None
+
+
+def is_recent(item, max_age_hours=MAX_NEWS_AGE_HOURS):
+      """True si el ítem se publicó dentro de las últimas `max_age_hours` horas.
+    Si no se pudo determinar la fecha de publicación, se descarta por seguridad
+    (evita mandar alertas de noticias viejas cuando la fecha viene vacía)."""
+    dt = item.get("published_dt")
+    if dt is None:
+        return False
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+    return dt >= cutoff
+
+
 # ---------------------------------------------------------------------------
 # Fuentes
 # ---------------------------------------------------------------------------
@@ -118,6 +156,7 @@ def search_google_news(keyword, lang="es-419", country="EC"):
                 "title": title,
                 "url": link,
                 "published": published,
+                "published_dt": parse_rfc822_date(published),
             })
     except ET.ParseError as e:
         log(f"ERROR parseando XML de Google News para '{keyword}': {e}")
@@ -135,7 +174,7 @@ def search_gdelt(keyword):
     url = (
         "https://api.gdeltproject.org/api/v2/doc/doc?"
         f"query={quote_plus(query)}&mode=artlist&maxrecords=15&format=json"
-        "&sort=datedesc&timespan=3d"
+        "&sort=datedesc&timespan=1d"
     )
     try:
         r = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": USER_AGENT})
@@ -151,11 +190,13 @@ def search_gdelt(keyword):
                 f"(primeros 120 caracteres: {r.text[:120]!r})")
             return results
         for art in data.get("articles", []):
+            published = art.get("seendate", "")
             results.append({
                 "source": f"GDELT ({art.get('domain', 'web')})",
                 "title": art.get("title", ""),
                 "url": art.get("url", ""),
-                "published": art.get("seendate", ""),
+                "published": published,
+                "published_dt": parse_gdelt_date(published),
             })
     except Exception as e:
         log(f"ERROR GDELT para '{keyword}': {e}")
@@ -192,13 +233,15 @@ def search_reddit(keyword):
             title = d.get("title", "")
             permalink = d.get("permalink", "")
             subreddit = d.get("subreddit", "")
+            published_dt = datetime.fromtimestamp(
+                d.get("created_utc", time.time()), tz=timezone.utc
+            ) if d.get("created_utc") is not None else None
             results.append({
                 "source": f"Reddit (r/{subreddit})",
-                "title": title,
+                          "title": title,
                 "url": f"https://www.reddit.com{permalink}" if permalink else d.get("url", ""),
-                "published": datetime.fromtimestamp(
-                    d.get("created_utc", time.time()), tz=timezone.utc
-                ).isoformat(),
+                "published": published_dt.isoformat() if published_dt else "",
+                "published_dt": published_dt,
             })
     except Exception as e:
         log(f"ERROR Reddit para '{keyword}': {e}")
@@ -236,9 +279,16 @@ def send_telegram_message(text):
 
 def format_alert(keyword, item):
     title = item["title"].replace("<", "").replace(">", "")
+    fecha = ""
+    dt = item.get("published_dt")
+    if dt:
+        # Se muestra en hora de Ecuador (UTC-5) para que sea fácil de leer.
+        hora_ec = dt.astimezone(timezone(timedelta(hours=-5)))
+        fecha = f"🕒 {hora_ec.strftime('%d/%m/%Y %H:%M')} (hora Ecuador)\n"
     return (
         f"🔔 <b>Alerta: {keyword}</b>\n"
         f"📰 {item['source']}\n"
+        f"{fecha}"
         f"<b>{title}</b>\n"
         f"{item['url']}"
     )
@@ -279,6 +329,9 @@ def main():
                 continue
             if not matches_keyword(item["title"], keyword):
                 # Filtro extra: aseguramos que la palabra realmente aparezca en el título
+                continue
+            if not is_recent(item):
+                # Descarta noticias viejas o sin fecha de publicación reconocible
                 continue
 
             uid = item_id(item["url"], item["title"])
