@@ -5,7 +5,12 @@ on:
     # Cada 15 minutos. GitHub Actions no garantiza el minuto exacto,
     # puede haber unos minutos de retraso en horas pico.
     - cron: "*/15 * * * *"
-  workflow_dispatch: {}   # permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:       # permite ejecutarlo manualmente desde la pestaña "Actions"
+    inputs:
+      modo_prueba:
+        description: "Marca esta casilla para enviar solo un mensaje de prueba a Telegram (no busca noticias)"
+        type: boolean
+        default: false
 
 # Necesario para que el workflow pueda hacer commit del estado actualizado
 permissions:
@@ -34,7 +39,12 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python monitor.py
+        run: |
+          if [ "${{ inputs.modo_prueba }}" = "true" ]; then
+            python monitor.py --test
+          else
+            python monitor.py
+          fi
 
       - name: Guardar estado (evitar alertas repetidas)
         run: |
