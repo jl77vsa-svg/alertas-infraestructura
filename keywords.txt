@@ -1,4 +1,32 @@
 # Escribe una palabra clave por línea (sin comillas).
 # Las líneas que empiezan con # son ignoradas.
-# Ejemplos:
-Ministerio de Infraestructura Ecuador
+# Puedes agregar o quitar líneas cuando quieras.
+
+# --- Institución y ministerio ---
+MIT
+Ministerio de Infraestructura y Tecnología
+
+# --- Programas y casos específicos ---
+Puntos Digitales Gratuitos
+Caso Progren
+Programa Miti Miti
+Programa Yapa
+Quinto Puente
+
+# --- Temas / sectores ---
+Conectividad
+Brecha digital
+Internet
+Vivienda
+Carreteras
+
+# --- Entidades relacionadas ---
+Arcotel
+CNT
+Registro Civil
+Agencia Postal
+Postal
+
+# --- Personas ---
+Roberto Luque
+Ricardo Gutiérrez
