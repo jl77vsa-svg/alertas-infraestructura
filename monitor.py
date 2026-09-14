@@ -117,4 +117,34 @@ def search_google_news(keyword, lang="es-419", country="EC"):
                 "source": f"Noticias ({source})",
                 "title": title,
                 "url": link,
-                "published":
+                "published": published,
+            })
+    except ET.ParseError as e:
+        log(f"ERROR parseando XML de Google News para '{keyword}': {e}")
+    except Exception as e:
+        log(f"ERROR Google News para '{keyword}': {e}")
+    return results
+
+
+def search_gdelt(keyword):
+    """GDELT Project - monitoreo global de noticias, actualizado ~cada 15 min, gratuito."""
+    results = []
+    # Frase entre comillas = búsqueda exacta; timespan acota a lo reciente y evita
+    # respuestas vacías/HTML que rompen el parseo JSON.
+    query = f'"{keyword}"' if " " in keyword else keyword
+    url = (
+        "https://api.gdeltproject.org/api/v2/doc/doc?"
+        f"query={quote_plus(query)}&mode=artlist&maxrecords=15&format=json"
+        "&sort=datedesc&timespan=3d"
+    )
+    try:
+        r = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": USER_AGENT})
+        if r.status_code != 200 or not r.text.strip():
+            log(f"WARNING GDELT status {r.status_code} (vacío) para '{keyword}'")
+            return results
+        try:
+            data = r.json()
+        except ValueError:
+            # GDELT a veces responde HTML/texto de error en vez de JSON (rate-limit,
+            # mantenimiento, etc.). No es un fallo del script, se ignora esta corrida.
+            log(f"WARNING GDELT devolvió una respuesta no-JSON para '{keyword}' "
