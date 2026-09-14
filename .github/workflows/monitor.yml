@@ -2,9 +2,10 @@ name: Monitor de palabras clave
 
 on:
   schedule:
-    # Cada 15 minutos. GitHub Actions no garantiza el minuto exacto,
-    # puede haber unos minutos de retraso en horas pico.
-       - cron: "3,18,33,48 * * * *"
+    # Cada 15 minutos, desfasado de los minutos "redondos" (:00,:15,:30,:45)
+    # para evitar la hora pico de GitHub Actions, que puede retrasar o saltar
+    # corridas programadas justo en esos minutos.
+    - cron: "3,18,33,48 * * * *"
   workflow_dispatch:       # permite ejecutarlo manualmente desde la pestaña "Actions"
     inputs:
       modo_prueba:
