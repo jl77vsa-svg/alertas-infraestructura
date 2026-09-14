@@ -4,7 +4,7 @@ on:
   schedule:
     # Cada 15 minutos. GitHub Actions no garantiza el minuto exacto,
     # puede haber unos minutos de retraso en horas pico.
-    - cron: "*/15 * * * *"
+       - cron: "3,18,33,48 * * * *"
   workflow_dispatch:       # permite ejecutarlo manualmente desde la pestaña "Actions"
     inputs:
       modo_prueba:
