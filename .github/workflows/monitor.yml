@@ -1,0 +1,45 @@
+name: Monitor de palabras clave
+
+on:
+  schedule:
+    # Cada 15 minutos. GitHub Actions no garantiza el minuto exacto,
+    # puede haber unos minutos de retraso en horas pico.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # permite ejecutarlo manualmente desde la pestaña "Actions"
+
+# Necesario para que el workflow pueda hacer commit del estado actualizado
+permissions:
+  contents: write
+
+concurrency:
+  group: keyword-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: Guardar estado (evitar alertas repetidas)
+        run: |
+          git config user.name "keyword-monitor-bot"
+          git config user.email "actions@github.com"
+          git add seen_state.json
+          git diff --cached --quiet || git commit -m "Actualiza estado de alertas [skip ci]"
+          git push
