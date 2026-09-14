@@ -148,3 +148,153 @@ def search_gdelt(keyword):
             # GDELT a veces responde HTML/texto de error en vez de JSON (rate-limit,
             # mantenimiento, etc.). No es un fallo del script, se ignora esta corrida.
             log(f"WARNING GDELT devolvió una respuesta no-JSON para '{keyword}' "
+                f"(primeros 120 caracteres: {r.text[:120]!r})")
+            return results
+        for art in data.get("articles", []):
+            results.append({
+                "source": f"GDELT ({art.get('domain', 'web')})",
+                "title": art.get("title", ""),
+                "url": art.get("url", ""),
+                "published": art.get("seendate", ""),
+            })
+    except Exception as e:
+        log(f"ERROR GDELT para '{keyword}': {e}")
+    return results
+
+
+def search_reddit(keyword):
+    """Búsqueda pública de Reddit (endpoint JSON sin autenticación).
+
+    Reddit bloquea con frecuencia las IPs de servidores en la nube (incluidas
+    las de GitHub Actions) con un 403, independientemente de las cabeceras.
+    Cuando eso pasa no hay mucho que hacer del lado del script: se registra
+    como advertencia y se sigue con las demás fuentes.
+    """
+    results = []
+    url = f"https://www.reddit.com/search.json?q={quote_plus(keyword)}&sort=new&limit=15"
+    headers = {
+        "User-Agent": "web:keyword-monitor-bot:v1.0 (by /u/keyword_monitor)",
+        "Accept": "application/json",
+    }
+    try:
+        r = requests.get(url, timeout=REQUEST_TIMEOUT, headers=headers)
+        if r.status_code == 403:
+            log(f"WARNING Reddit bloqueó la solicitud (403) para '{keyword}' "
+                f"— esto es un bloqueo de Reddit a IPs de servidores en la nube, "
+                f"no un error de configuración.")
+            return results
+        if r.status_code != 200:
+            log(f"WARNING Reddit status {r.status_code} para '{keyword}'")
+            return results
+        data = r.json()
+        for child in data.get("data", {}).get("children", []):
+            d = child.get("data", {})
+            title = d.get("title", "")
+            permalink = d.get("permalink", "")
+            subreddit = d.get("subreddit", "")
+            results.append({
+                "source": f"Reddit (r/{subreddit})",
+                "title": title,
+                "url": f"https://www.reddit.com{permalink}" if permalink else d.get("url", ""),
+                "published": datetime.fromtimestamp(
+                    d.get("created_utc", time.time()), tz=timezone.utc
+                ).isoformat(),
+            })
+    except Exception as e:
+        log(f"ERROR Reddit para '{keyword}': {e}")
+    return results
+
+
+SOURCES = [search_google_news, search_gdelt, search_reddit]
+
+
+# ---------------------------------------------------------------------------
+# Telegram
+# ---------------------------------------------------------------------------
+
+def send_telegram_message(text):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        log("ERROR: faltan TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID")
+        return False
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False,
+    }
+    try:
+        r = requests.post(url, data=payload, timeout=REQUEST_TIMEOUT)
+        if r.status_code != 200:
+            log(f"ERROR Telegram: {r.status_code} {r.text}")
+            return False
+        return True
+    except Exception as e:
+        log(f"ERROR enviando a Telegram: {e}")
+        return False
+
+
+def format_alert(keyword, item):
+    title = item["title"].replace("<", "").replace(">", "")
+    return (
+        f"🔔 <b>Alerta: {keyword}</b>\n"
+        f"📰 {item['source']}\n"
+        f"<b>{title}</b>\n"
+        f"{item['url']}"
+    )
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main():
+    if "--test" in sys.argv:
+        log("Modo de prueba: enviando mensaje de prueba a Telegram...")
+        ok = send_telegram_message(
+            "✅ Prueba exitosa: tu bot de alertas está conectado correctamente."
+        )
+        log("Mensaje de prueba enviado." if ok else "FALLÓ el envío del mensaje de prueba.")
+        sys.exit(0 if ok else 1)
+
+    keywords = load_keywords()
+    if not keywords:
+        log("No hay palabras clave configuradas. Saliendo.")
+        sys.exit(0)
+
+    state = load_state()
+    new_alerts = 0
+
+    log(f"Monitoreando {len(keywords)} palabra(s) clave: {', '.join(keywords)}")
+
+    for keyword in keywords:
+        found_items = []
+        for source_fn in SOURCES:
+            items = source_fn(keyword)
+            log(f"  {source_fn.__name__}: {len(items)} resultado(s) para '{keyword}'")
+            found_items.extend(items)
+
+        for item in found_items:
+            if not item.get("url") or not item.get("title"):
+                continue
+            if not matches_keyword(item["title"], keyword):
+                # Filtro extra: aseguramos que la palabra realmente aparezca en el título
+                continue
+
+            uid = item_id(item["url"], item["title"])
+            if uid in state:
+                continue  # ya se envió antes
+
+            ok = send_telegram_message(format_alert(keyword, item))
+            state[uid] = {"ts": time.time(), "keyword": keyword}
+            if ok:
+                new_alerts += 1
+                log(f"Alerta enviada [{keyword}]: {item['title'][:80]}")
+            time.sleep(1)  # evitar rate-limit de Telegram
+
+    save_state(state)
+    log(f"Corrida finalizada. Alertas nuevas enviadas: {new_alerts}")
+
+
+if __name__ == "__main__":
+    main()
