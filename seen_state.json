@@ -926,5 +926,89 @@
   "bad19e8ffa12e68100c2646d": {
     "ts": 1789419445.1672695,
     "keyword": "Registro Civil"
+  },
+  "e8a1ad6b0c811b63e4e9c854": {
+    "ts": 1789429813.9863336,
+    "keyword": "MIT"
+  },
+  "1a1efe16d7c0765efa140f58": {
+    "ts": 1789429815.419983,
+    "keyword": "MIT"
+  },
+  "94454841e3d5276d7773ac89": {
+    "ts": 1789429900.7154205,
+    "keyword": "Conectividad"
+  },
+  "491cf98b647b76257d174ff1": {
+    "ts": 1789429902.1683455,
+    "keyword": "Conectividad"
+  },
+  "3f32e17eafd980a548763c5a": {
+    "ts": 1789429903.6053298,
+    "keyword": "Conectividad"
+  },
+  "6329e0f5af39f43f414be41a": {
+    "ts": 1789429915.0075588,
+    "keyword": "Brecha digital"
+  },
+  "8eb17d15ed56caa687142267": {
+    "ts": 1789429927.123325,
+    "keyword": "Internet"
+  },
+  "dcfc88b4e954e267fea285fe": {
+    "ts": 1789429928.5959747,
+    "keyword": "Internet"
+  },
+  "ed3647925ecd99cfc9f52929": {
+    "ts": 1789429930.027862,
+    "keyword": "Internet"
+  },
+  "f4f9e7846592189218fdbbb4": {
+    "ts": 1789429931.452216,
+    "keyword": "Internet"
+  },
+  "ad2a5aaa6d113d043f36f640": {
+    "ts": 1789429932.8743532,
+    "keyword": "Internet"
+  },
+  "5ae3883119e3fa6f90526e43": {
+    "ts": 1789429945.3110886,
+    "keyword": "Vivienda"
+  },
+  "110e307c821434a820c91375": {
+    "ts": 1789429946.7449758,
+    "keyword": "Vivienda"
+  },
+  "9c7a85babf01455b0bd3f481": {
+    "ts": 1789429959.2795124,
+    "keyword": "Carreteras"
+  },
+  "8d2d6af2c9b7c3a57b516ac8": {
+    "ts": 1789429983.2847862,
+    "keyword": "CNT"
+  },
+  "08159ca8905df0164ebbe15a": {
+    "ts": 1789430003.367057,
+    "keyword": "Registro Civil"
+  },
+  "ba31385af434a971883f086e": {
+    "ts": 1789430004.8093898,
+    "keyword": "Registro Civil"
+  },
+  "9f70d916b2a31cae88b4d664": {
+    "ts": 1789430006.2510695,
+    "keyword": "Registro Civil"
+  },
+  "d3ce5f0a67412a33baee7b0d": {
+    "ts": 1789430007.7180898,
+    "keyword": "Registro Civil"
+  },
+  "7650ef620499dcd1e79b2118": {
+    "ts": 1789430009.1544685,
+    "keyword": "Registro Civil"
+  },
+  "060a2fc818cb15b83a40ca93": {
+    "ts": 1789430055.2072318,
+    "keyword": "Ricardo Gutiérrez"
   }
 }
