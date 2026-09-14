@@ -1,0 +1,4 @@
+# Escribe una palabra clave por línea (sin comillas).
+# Las líneas que empiezan con # son ignoradas.
+# Ejemplos:
+Ministerio de Infraestructura Ecuador
