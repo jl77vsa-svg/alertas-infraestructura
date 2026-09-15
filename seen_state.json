@@ -1270,5 +1270,81 @@
   "0a6886d8aba20e7b0cc90b35": {
     "ts": 1789482942.9442973,
     "keyword": "Ricardo Gutiérrez"
+  },
+  "7d0eba83a4bbb0c68c68acea": {
+    "ts": 1789496835.8645544,
+    "keyword": "MIT"
+  },
+  "00b49e3269add2b41c16c47d": {
+    "ts": 1789496837.3200138,
+    "keyword": "MIT"
+  },
+  "b7c664f6b4d920d6c9feb06a": {
+    "ts": 1789496915.8741152,
+    "keyword": "Conectividad"
+  },
+  "ef940bdffec647322deeb5b8": {
+    "ts": 1789496917.3240948,
+    "keyword": "Conectividad"
+  },
+  "20b078bcfc5dcf7f174fb0e9": {
+    "ts": 1789496929.0784276,
+    "keyword": "Brecha digital"
+  },
+  "912058c1530412b4225e1ec6": {
+    "ts": 1789496940.9437115,
+    "keyword": "Internet"
+  },
+  "84f5a695ea5617c097545a5b": {
+    "ts": 1789496942.3794785,
+    "keyword": "Internet"
+  },
+  "fe1b6b94a35aec582e6ec69f": {
+    "ts": 1789496943.80416,
+    "keyword": "Internet"
+  },
+  "2b211de72fef5f7064498da5": {
+    "ts": 1789496945.2523534,
+    "keyword": "Internet"
+  },
+  "7f97b6da0a987e441734f6e6": {
+    "ts": 1789496946.6847146,
+    "keyword": "Internet"
+  },
+  "1a411bb1ca7e0836040a112f": {
+    "ts": 1789496958.2409446,
+    "keyword": "Vivienda"
+  },
+  "1422e2fb07e1ce58684de89e": {
+    "ts": 1789496959.6760516,
+    "keyword": "Vivienda"
+  },
+  "ec698fc1def863c4a0c7195a": {
+    "ts": 1789496993.925323,
+    "keyword": "CNT"
+  },
+  "d6cf170ed650f6e8fb0cb47f": {
+    "ts": 1789497007.3004792,
+    "keyword": "Registro Civil"
+  },
+  "b111ca54d5418d3966a904f6": {
+    "ts": 1789497008.7387671,
+    "keyword": "Registro Civil"
+  },
+  "f16f29423919b8764a80f893": {
+    "ts": 1789497010.1932065,
+    "keyword": "Registro Civil"
+  },
+  "1daaea3d1289875b76529bf7": {
+    "ts": 1789497040.7723687,
+    "keyword": "Postal"
+  },
+  "3faf754a70b67f0bf0a4e12a": {
+    "ts": 1789497042.2075298,
+    "keyword": "Postal"
+  },
+  "59fb9095988ed0dee05e4498": {
+    "ts": 1789497043.6327412,
+    "keyword": "Postal"
   }
 }
