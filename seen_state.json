@@ -1690,5 +1690,113 @@
   "f49219ed393aea6867eed604": {
     "ts": 1789562279.4216566,
     "keyword": "Postal"
+  },
+  "a8707a2be1280701b66d1d57": {
+    "ts": 1789579130.0225153,
+    "keyword": "MIT"
+  },
+  "b602cda8f235471cf96f5c98": {
+    "ts": 1789579131.6391258,
+    "keyword": "MIT"
+  },
+  "9c2cc23fc6be4bc5df3c5aca": {
+    "ts": 1789579133.2542205,
+    "keyword": "MIT"
+  },
+  "a2e87d575dfe11f23e39dd39": {
+    "ts": 1789579223.3516762,
+    "keyword": "Conectividad"
+  },
+  "a0085c4459ceed43da89f4a6": {
+    "ts": 1789579224.9679155,
+    "keyword": "Conectividad"
+  },
+  "f1405104a6f5278e361eb8fd": {
+    "ts": 1789579226.6058517,
+    "keyword": "Conectividad"
+  },
+  "6267c58a4985aa431f1de8dc": {
+    "ts": 1789579228.21738,
+    "keyword": "Conectividad"
+  },
+  "440132d5e3303b69a028b552": {
+    "ts": 1789579242.7999256,
+    "keyword": "Brecha digital"
+  },
+  "43804c2d66e8be6bd9823edd": {
+    "ts": 1789579257.4169214,
+    "keyword": "Internet"
+  },
+  "0e328499ceca044a7b7abc30": {
+    "ts": 1789579259.0106611,
+    "keyword": "Internet"
+  },
+  "576254849e74f3ef47f40a0c": {
+    "ts": 1789579260.6303537,
+    "keyword": "Internet"
+  },
+  "f69c501d2f5e80be8f1b79ab": {
+    "ts": 1789579262.2631543,
+    "keyword": "Internet"
+  },
+  "f223a69803fbf0e6beb134a6": {
+    "ts": 1789579275.6243405,
+    "keyword": "Vivienda"
+  },
+  "6a39273334f85571e7738d3c": {
+    "ts": 1789579277.5993836,
+    "keyword": "Vivienda"
+  },
+  "574a089413ffa39cb7c74e26": {
+    "ts": 1789579279.217755,
+    "keyword": "Vivienda"
+  },
+  "70723e185e33da696703a1a5": {
+    "ts": 1789579280.8124487,
+    "keyword": "Vivienda"
+  },
+  "2a48463cef2f9a29d81e8af2": {
+    "ts": 1789579294.3280203,
+    "keyword": "Carreteras"
+  },
+  "ef0a1ae7c0991e12a034ffff": {
+    "ts": 1789579295.9590304,
+    "keyword": "Carreteras"
+  },
+  "949b8d30ddad1f53773f48e6": {
+    "ts": 1789579323.219202,
+    "keyword": "CNT"
+  },
+  "2e5175d8d6f090f132692732": {
+    "ts": 1789579324.8275387,
+    "keyword": "CNT"
+  },
+  "b22299fee9e1018954e9df33": {
+    "ts": 1789579337.6514423,
+    "keyword": "Registro Civil"
+  },
+  "8979d9e35e86780b4f7a7422": {
+    "ts": 1789579339.2710092,
+    "keyword": "Registro Civil"
+  },
+  "838c21159f4d2510b0e910e6": {
+    "ts": 1789579367.7643135,
+    "keyword": "Postal"
+  },
+  "5f9143c16057887ea476c7c6": {
+    "ts": 1789579369.3996725,
+    "keyword": "Postal"
+  },
+  "e2b5533d15506cf537007339": {
+    "ts": 1789579370.9937515,
+    "keyword": "Postal"
+  },
+  "885fec91309de879c7aec98c": {
+    "ts": 1789579386.5045085,
+    "keyword": "Roberto Luque"
+  },
+  "4466f2a41e8fbe707e46147a": {
+    "ts": 1789579399.249207,
+    "keyword": "Ricardo Gutiérrez"
   }
 }
