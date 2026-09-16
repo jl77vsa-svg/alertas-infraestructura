@@ -1522,5 +1522,81 @@
   "fea2d803a11bda5b337cc0d3": {
     "ts": 1789523376.4361446,
     "keyword": "CNT"
+  },
+  "ca8dbffd614c99758bbcb58b": {
+    "ts": 1789541573.2883432,
+    "keyword": "MIT"
+  },
+  "37fabb0538bf144ad80b9c69": {
+    "ts": 1789541574.7973495,
+    "keyword": "MIT"
+  },
+  "f94ba6f0518d1e37018d74d8": {
+    "ts": 1789541654.9909499,
+    "keyword": "Conectividad"
+  },
+  "f002f3cb5ad88ee264b7f259": {
+    "ts": 1789541656.4965854,
+    "keyword": "Conectividad"
+  },
+  "e6da525a6cd1d62a38f25e9c": {
+    "ts": 1789541658.0518067,
+    "keyword": "Conectividad"
+  },
+  "7f246e181b34107627f261c4": {
+    "ts": 1789541659.5777867,
+    "keyword": "Conectividad"
+  },
+  "8169beabf3d5aabdd8fd23e1": {
+    "ts": 1789541671.7730625,
+    "keyword": "Brecha digital"
+  },
+  "6315b0439cbef5812871289d": {
+    "ts": 1789541673.2953918,
+    "keyword": "Brecha digital"
+  },
+  "224eca1a4000b1b6071bc4af": {
+    "ts": 1789541688.0221453,
+    "keyword": "Internet"
+  },
+  "fd7154ec08c71b0cfa562a17": {
+    "ts": 1789541689.5285022,
+    "keyword": "Internet"
+  },
+  "6f5a0a28e04e41d41e8d0f54": {
+    "ts": 1789541691.1076996,
+    "keyword": "Internet"
+  },
+  "cd189445e848583f6219b5fd": {
+    "ts": 1789541692.6471562,
+    "keyword": "Internet"
+  },
+  "2ab01d0220307bae55719b7b": {
+    "ts": 1789541706.9063442,
+    "keyword": "Vivienda"
+  },
+  "f04e4be0d474a675a606f5b6": {
+    "ts": 1789541708.4159493,
+    "keyword": "Vivienda"
+  },
+  "920a3729226ade84b0a01920": {
+    "ts": 1789541709.9318056,
+    "keyword": "Vivienda"
+  },
+  "dd3f7d9b46d1616a9173d1ab": {
+    "ts": 1789541724.077537,
+    "keyword": "Carreteras"
+  },
+  "370d1abfdfc9a921fdff36d8": {
+    "ts": 1789541748.813646,
+    "keyword": "CNT"
+  },
+  "d52386212d834120a06212b2": {
+    "ts": 1789541750.3301053,
+    "keyword": "CNT"
+  },
+  "654365d872c52cbc72b6d59c": {
+    "ts": 1789541809.2860222,
+    "keyword": "Ricardo Gutiérrez"
   }
 }
