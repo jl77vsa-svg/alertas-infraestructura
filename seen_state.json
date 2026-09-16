@@ -1490,5 +1490,37 @@
   "a1c2c9f7db28eb646bfb4fca": {
     "ts": 1789516211.755271,
     "keyword": "Postal"
+  },
+  "3b5cc03a3fb18cc5234d3442": {
+    "ts": 1789523212.9369009,
+    "keyword": "MIT"
+  },
+  "2b9bd5e633cce8f7dc456897": {
+    "ts": 1789523214.440679,
+    "keyword": "MIT"
+  },
+  "dccc12bbc79bbd4372564e4a": {
+    "ts": 1789523303.125951,
+    "keyword": "Conectividad"
+  },
+  "b4498c633946278186319940": {
+    "ts": 1789523304.63767,
+    "keyword": "Conectividad"
+  },
+  "ed30ad43075452db3ceea447": {
+    "ts": 1789523337.4400144,
+    "keyword": "Vivienda"
+  },
+  "8ac4cbc5debcc9d92bdb976b": {
+    "ts": 1789523338.9399338,
+    "keyword": "Vivienda"
+  },
+  "17b1a74f432980b2e5355a62": {
+    "ts": 1789523340.4554696,
+    "keyword": "Vivienda"
+  },
+  "fea2d803a11bda5b337cc0d3": {
+    "ts": 1789523376.4361446,
+    "keyword": "CNT"
   }
 }
