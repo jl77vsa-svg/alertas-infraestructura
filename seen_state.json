@@ -2062,5 +2062,85 @@
   "c4f29a978a7f881821e64486": {
     "ts": 1789627296.769701,
     "keyword": "Postal"
+  },
+  "1e9fa9015bdb3f1e3111d67e": {
+    "ts": 1789647181.5815554,
+    "keyword": "MIT"
+  },
+  "14b42087adf56c75c9a04b87": {
+    "ts": 1789647272.9432406,
+    "keyword": "Conectividad"
+  },
+  "f9ed791f16d1e0c373a77fcc": {
+    "ts": 1789647274.5093505,
+    "keyword": "Conectividad"
+  },
+  "39c1d77456c4a1c645fbf71f": {
+    "ts": 1789647299.5151262,
+    "keyword": "Internet"
+  },
+  "7984b0746829adcb26f0e190": {
+    "ts": 1789647301.0930674,
+    "keyword": "Internet"
+  },
+  "4ca168e9220a052e1dd46001": {
+    "ts": 1789647302.6436515,
+    "keyword": "Internet"
+  },
+  "42d9f6fc8a46687145e5449d": {
+    "ts": 1789647304.217467,
+    "keyword": "Internet"
+  },
+  "2f1bad40e8f5ba1b08797df9": {
+    "ts": 1789647319.849967,
+    "keyword": "Vivienda"
+  },
+  "3094954618ccaf762f0b3e08": {
+    "ts": 1789647321.4273214,
+    "keyword": "Vivienda"
+  },
+  "81eceae938e9e89dd1c5f403": {
+    "ts": 1789647322.9819603,
+    "keyword": "Vivienda"
+  },
+  "157bd19042103abdf1433b41": {
+    "ts": 1789647324.5631633,
+    "keyword": "Vivienda"
+  },
+  "60c706c155c25199e89a2d8d": {
+    "ts": 1789647326.1576717,
+    "keyword": "Vivienda"
+  },
+  "e9c3e5542cd86acaae40b2e5": {
+    "ts": 1789647327.7146711,
+    "keyword": "Vivienda"
+  },
+  "e34f1be41846a25b8a4facac": {
+    "ts": 1789647341.6321464,
+    "keyword": "Carreteras"
+  },
+  "01ccadf4ff133bde4d390d1e": {
+    "ts": 1789647343.2059762,
+    "keyword": "Carreteras"
+  },
+  "4dc6ee25bb7f7dc6de52fae4": {
+    "ts": 1789647380.991566,
+    "keyword": "CNT"
+  },
+  "c48afa75f5ba676ca03b100d": {
+    "ts": 1789647382.5619195,
+    "keyword": "CNT"
+  },
+  "16e50e551b0c600c642931bc": {
+    "ts": 1789647400.918724,
+    "keyword": "Registro Civil"
+  },
+  "7a394e615d22ae95dc8d5d85": {
+    "ts": 1789647426.3494139,
+    "keyword": "Postal"
+  },
+  "9a44286e0b13656d0c8077a6": {
+    "ts": 1789647427.9242125,
+    "keyword": "Postal"
   }
 }
