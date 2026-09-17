@@ -1938,5 +1938,49 @@
   "acd09e48721ffa9b23252e46": {
     "ts": 1789600585.3292167,
     "keyword": "Registro Civil"
+  },
+  "39fb164bf209aaaca23f9438": {
+    "ts": 1789608765.7204437,
+    "keyword": "Conectividad"
+  },
+  "10f1d2fda8923d89294421db": {
+    "ts": 1789608779.7276773,
+    "keyword": "Brecha digital"
+  },
+  "79efc731c9e7c2355ddce4d5": {
+    "ts": 1789608802.441554,
+    "keyword": "Internet"
+  },
+  "70be772af2e54b0e9751f70a": {
+    "ts": 1789608804.0477521,
+    "keyword": "Internet"
+  },
+  "e532107811dcaba7d8c4b0cb": {
+    "ts": 1789608818.5358543,
+    "keyword": "Vivienda"
+  },
+  "a17241fca281b9af3d045822": {
+    "ts": 1789608820.1418643,
+    "keyword": "Vivienda"
+  },
+  "f87ab113c89fd40117d525dd": {
+    "ts": 1789608821.767192,
+    "keyword": "Vivienda"
+  },
+  "b5dbfc5d13553bfbc57098b9": {
+    "ts": 1789608823.3619626,
+    "keyword": "Vivienda"
+  },
+  "bfc23d55c5e501d8b132c3bb": {
+    "ts": 1789608860.9026372,
+    "keyword": "CNT"
+  },
+  "74a69e15c1bc3af9d03ca6c8": {
+    "ts": 1789608876.0360758,
+    "keyword": "Registro Civil"
+  },
+  "033905cabbd7b567bf42ef5b": {
+    "ts": 1789608877.672273,
+    "keyword": "Registro Civil"
   }
 }
