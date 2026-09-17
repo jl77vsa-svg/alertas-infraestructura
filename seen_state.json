@@ -2346,5 +2346,65 @@
   "254412be4d2b96918b5b1d2c": {
     "ts": 1789676834.463161,
     "keyword": "Postal"
+  },
+  "6cfbbcf1337756761a5d4712": {
+    "ts": 1789686181.6828594,
+    "keyword": "MIT"
+  },
+  "e9aec69d4e2053754a7cb726": {
+    "ts": 1789686286.3211322,
+    "keyword": "Conectividad"
+  },
+  "3b1366f45c0d35986931724f": {
+    "ts": 1789686287.7378962,
+    "keyword": "Conectividad"
+  },
+  "c0b5aae5a335866c2d0c1cb6": {
+    "ts": 1789686289.25769,
+    "keyword": "Conectividad"
+  },
+  "2e24c0a9db41f5baeef5e846": {
+    "ts": 1789686290.6855896,
+    "keyword": "Conectividad"
+  },
+  "abc174ea0b2305c930ef6469": {
+    "ts": 1789686322.6757,
+    "keyword": "Internet"
+  },
+  "78906a288a722ed874b015b6": {
+    "ts": 1789686324.0909073,
+    "keyword": "Internet"
+  },
+  "1ff8f2a51632962ec3364692": {
+    "ts": 1789686325.57773,
+    "keyword": "Internet"
+  },
+  "91ccff1c2602f1096fcb0346": {
+    "ts": 1789686350.9346998,
+    "keyword": "Carreteras"
+  },
+  "ce471bca575acff808db8397": {
+    "ts": 1789686352.351111,
+    "keyword": "Carreteras"
+  },
+  "a0675f78b59a852b4dc36bb9": {
+    "ts": 1789686353.7760723,
+    "keyword": "Carreteras"
+  },
+  "c117d185d0180af5f5026c0b": {
+    "ts": 1789686380.559028,
+    "keyword": "CNT"
+  },
+  "b31a774bba3020e6efdc0136": {
+    "ts": 1789686393.8527143,
+    "keyword": "Registro Civil"
+  },
+  "b5f3e4489250b15e8103e4f4": {
+    "ts": 1789686417.3035657,
+    "keyword": "Postal"
+  },
+  "3be5883615a048f0472b5826": {
+    "ts": 1789686418.7296345,
+    "keyword": "Postal"
   }
 }
