@@ -1982,5 +1982,85 @@
   "033905cabbd7b567bf42ef5b": {
     "ts": 1789608877.672273,
     "keyword": "Registro Civil"
+  },
+  "504a742e8681d652c19994a5": {
+    "ts": 1789627076.1888845,
+    "keyword": "MIT"
+  },
+  "1e77c5791afb770b1350b14f": {
+    "ts": 1789627077.6399853,
+    "keyword": "MIT"
+  },
+  "b7b33792bc9d58e00f4ee887": {
+    "ts": 1789627079.0806856,
+    "keyword": "MIT"
+  },
+  "885948136ebee56dab7b0db1": {
+    "ts": 1789627080.520085,
+    "keyword": "MIT"
+  },
+  "f9b9436c601151769dc98a1b": {
+    "ts": 1789627163.465922,
+    "keyword": "Conectividad"
+  },
+  "a71819fef18b02708bfdcaf5": {
+    "ts": 1789627164.900382,
+    "keyword": "Conectividad"
+  },
+  "810bf3eff2e750bbe1b594ab": {
+    "ts": 1789627166.3368478,
+    "keyword": "Conectividad"
+  },
+  "f42c5641a9e8348c6bc2d35c": {
+    "ts": 1789627167.7771168,
+    "keyword": "Conectividad"
+  },
+  "daf34d1c0030cc68fbc4a6ed": {
+    "ts": 1789627192.0031326,
+    "keyword": "Internet"
+  },
+  "866921cc7c67942f93c7f634": {
+    "ts": 1789627193.4399407,
+    "keyword": "Internet"
+  },
+  "cd4ca0f3e453e394d9f7d27d": {
+    "ts": 1789627206.3565028,
+    "keyword": "Vivienda"
+  },
+  "419447f2da92c7ed28630d88": {
+    "ts": 1789627208.1529143,
+    "keyword": "Vivienda"
+  },
+  "c7aa23f32b71ee415478cd8e": {
+    "ts": 1789627209.598916,
+    "keyword": "Vivienda"
+  },
+  "e71bb8ec138c2444d4b04670": {
+    "ts": 1789627211.0433657,
+    "keyword": "Vivienda"
+  },
+  "1b6f3d33b14196abbda911d0": {
+    "ts": 1789627212.493007,
+    "keyword": "Vivienda"
+  },
+  "ef7f2936dd3f7c49696fd3e1": {
+    "ts": 1789627213.9351625,
+    "keyword": "Vivienda"
+  },
+  "8b96a3cf700e03a51231a024": {
+    "ts": 1789627215.388293,
+    "keyword": "Vivienda"
+  },
+  "b12fd45de7aab96123479807": {
+    "ts": 1789627270.1243622,
+    "keyword": "Registro Civil"
+  },
+  "6c9892923db1320253cd81b4": {
+    "ts": 1789627271.5658667,
+    "keyword": "Registro Civil"
+  },
+  "c4f29a978a7f881821e64486": {
+    "ts": 1789627296.769701,
+    "keyword": "Postal"
   }
 }
