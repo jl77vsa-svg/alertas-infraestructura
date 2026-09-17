@@ -2142,5 +2142,105 @@
   "9a44286e0b13656d0c8077a6": {
     "ts": 1789647427.9242125,
     "keyword": "Postal"
+  },
+  "69424c0f25954a2f2c3718dc": {
+    "ts": 1789664900.9123116,
+    "keyword": "MIT"
+  },
+  "8565cb66caf7eeb1aa36332d": {
+    "ts": 1789664902.527333,
+    "keyword": "MIT"
+  },
+  "9262af296d79068a7572d9b5": {
+    "ts": 1789664904.1564872,
+    "keyword": "MIT"
+  },
+  "d8a8699dc27c2b8ceafd2481": {
+    "ts": 1789664991.1619253,
+    "keyword": "Conectividad"
+  },
+  "98d92d63887cae8b865f20cb": {
+    "ts": 1789664992.7670822,
+    "keyword": "Conectividad"
+  },
+  "9fb3555e878baac6b8bd97e3": {
+    "ts": 1789664994.437726,
+    "keyword": "Conectividad"
+  },
+  "b1c778716bc7463ab2895484": {
+    "ts": 1789664996.2164662,
+    "keyword": "Conectividad"
+  },
+  "446b7526d44f6cff7b5dd2ee": {
+    "ts": 1789664997.834405,
+    "keyword": "Conectividad"
+  },
+  "60f7c1432e4d1b648775713d": {
+    "ts": 1789665024.1463094,
+    "keyword": "Internet"
+  },
+  "1668a6b7230e3d4150bf5d38": {
+    "ts": 1789665025.750341,
+    "keyword": "Internet"
+  },
+  "0d6d737afce8cde5450974b4": {
+    "ts": 1789665027.3669956,
+    "keyword": "Internet"
+  },
+  "300a5ce978e6725f22d11e5e": {
+    "ts": 1789665029.5298636,
+    "keyword": "Internet"
+  },
+  "31d2559247ef324a66d093ca": {
+    "ts": 1789665042.481943,
+    "keyword": "Vivienda"
+  },
+  "3dea5a947dffffef7496669d": {
+    "ts": 1789665044.081827,
+    "keyword": "Vivienda"
+  },
+  "d25baaa0bfe35121c46ea13d": {
+    "ts": 1789665045.7062714,
+    "keyword": "Vivienda"
+  },
+  "b6c10eaffecfee4e59309ae2": {
+    "ts": 1789665047.4619648,
+    "keyword": "Vivienda"
+  },
+  "621fdca34671c12b7342e6d5": {
+    "ts": 1789665049.063966,
+    "keyword": "Vivienda"
+  },
+  "f7ff15aee6b60c77d895b21e": {
+    "ts": 1789665050.6650078,
+    "keyword": "Vivienda"
+  },
+  "215b62ff32cbc7a183b3c113": {
+    "ts": 1789665064.5068972,
+    "keyword": "Carreteras"
+  },
+  "01d992296e801dec41fabd79": {
+    "ts": 1789665066.188709,
+    "keyword": "Carreteras"
+  },
+  "12373e08eb1259463917a927": {
+    "ts": 1789665092.9070795,
+    "keyword": "CNT"
+  },
+  "97b1fe77e7becd774e169c3d": {
+    "ts": 1789665094.5052192,
+    "keyword": "CNT"
+  },
+  "7736d8f47561f43dc462275b": {
+    "ts": 1789665107.5529149,
+    "keyword": "Registro Civil"
+  },
+  "332426d95c2c0509f5bb96e9": {
+    "ts": 1789665109.1714957,
+    "keyword": "Registro Civil"
+  },
+  "fdc4f312875c9eb6d1b5fd37": {
+    "ts": 1789665138.0491436,
+    "keyword": "Postal"
   }
 }
