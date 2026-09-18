@@ -2698,5 +2698,57 @@
   "51d5850307bd4152b6bfb3c1": {
     "ts": 1789756014.5979369,
     "keyword": "Registro Civil"
+  },
+  "54368b5ad4cbafd467d62eb0": {
+    "ts": 1789765981.7118425,
+    "keyword": "Conectividad"
+  },
+  "6dadaf551e99d9cc3325aea8": {
+    "ts": 1789765983.2840552,
+    "keyword": "Conectividad"
+  },
+  "f384af688b6aaad27ccd1390": {
+    "ts": 1789765984.7802522,
+    "keyword": "Conectividad"
+  },
+  "c92e5a198e60bb58425996e6": {
+    "ts": 1789765986.2849963,
+    "keyword": "Conectividad"
+  },
+  "593c7a98a446b378c185ac3f": {
+    "ts": 1789765998.8387911,
+    "keyword": "Brecha digital"
+  },
+  "8f8f9bbfff65eed83bb70331": {
+    "ts": 1789766011.6136801,
+    "keyword": "Internet"
+  },
+  "05dfa02dd00ba38aaf2ffd19": {
+    "ts": 1789766013.1015704,
+    "keyword": "Internet"
+  },
+  "ed14db61b088fa72bcd88079": {
+    "ts": 1789766015.6450763,
+    "keyword": "Internet"
+  },
+  "87159bb3dc2477596b0bd38d": {
+    "ts": 1789766028.8558156,
+    "keyword": "Vivienda"
+  },
+  "fe52eec2ba73a70b0ab2c69f": {
+    "ts": 1789766041.5273726,
+    "keyword": "Carreteras"
+  },
+  "8ebbbab57c2a9458b925888c": {
+    "ts": 1789766091.1341188,
+    "keyword": "Registro Civil"
+  },
+  "fe91faa394433bcf4e83ea1a": {
+    "ts": 1789766092.6579976,
+    "keyword": "Registro Civil"
+  },
+  "2ae3e374967e412ec64ccd39": {
+    "ts": 1789766094.1587331,
+    "keyword": "Registro Civil"
   }
 }
