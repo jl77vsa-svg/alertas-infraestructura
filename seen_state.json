@@ -2530,5 +2530,49 @@
   "721497258d686ba264493892": {
     "ts": 1789711680.1629198,
     "keyword": "Postal"
+  },
+  "cb178318834f22d0b800eacc": {
+    "ts": 1789729770.8712442,
+    "keyword": "Conectividad"
+  },
+  "b032c2c32e61d84fdd051acf": {
+    "ts": 1789729772.4284842,
+    "keyword": "Conectividad"
+  },
+  "6eebbbb0294ae07d94215531": {
+    "ts": 1789729795.2229464,
+    "keyword": "Internet"
+  },
+  "1fe9c5fef8a8aedd84820efe": {
+    "ts": 1789729807.1767397,
+    "keyword": "Vivienda"
+  },
+  "71695f1e9218d08dcf942e05": {
+    "ts": 1789729808.69189,
+    "keyword": "Vivienda"
+  },
+  "7806f77af14544df2ce9ea07": {
+    "ts": 1789729822.4710042,
+    "keyword": "Carreteras"
+  },
+  "e66add706f74a890ea3b71d0": {
+    "ts": 1789729823.9954972,
+    "keyword": "Carreteras"
+  },
+  "a81010395666cb317c662886": {
+    "ts": 1789729825.5598977,
+    "keyword": "Carreteras"
+  },
+  "63118ff36928fb0680e624fa": {
+    "ts": 1789729851.310814,
+    "keyword": "CNT"
+  },
+  "d59d8b9870540542a1d3db22": {
+    "ts": 1789729895.8017561,
+    "keyword": "Postal"
+  },
+  "2a87e72349e89c5dfc72aa6a": {
+    "ts": 1789729897.3248212,
+    "keyword": "Postal"
   }
 }
