@@ -2786,5 +2786,49 @@
   "db51e4c2cd3ddde9e29c0612": {
     "ts": 1789773965.1799738,
     "keyword": "Postal"
+  },
+  "8e9a41a8b97fcebabda82a47": {
+    "ts": 1789781553.816835,
+    "keyword": "Conectividad"
+  },
+  "1996b092bf3ca2800a6b6d4b": {
+    "ts": 1789781555.412537,
+    "keyword": "Conectividad"
+  },
+  "fdf8c3f67b43dc7a7d30dba3": {
+    "ts": 1789781556.9292297,
+    "keyword": "Conectividad"
+  },
+  "76e198af15ad5b63f3d3680d": {
+    "ts": 1789781558.4465885,
+    "keyword": "Conectividad"
+  },
+  "ee71ea250b0fd7d13280c988": {
+    "ts": 1789781559.964176,
+    "keyword": "Conectividad"
+  },
+  "856fdf9f212f39a3612faaf8": {
+    "ts": 1789781588.1629243,
+    "keyword": "Internet"
+  },
+  "a0fd11412552577ce161e8e9": {
+    "ts": 1789781613.5398948,
+    "keyword": "Carreteras"
+  },
+  "0fc70454b072e7d0775122ec": {
+    "ts": 1789781637.2855482,
+    "keyword": "CNT"
+  },
+  "83feed0916dc835c01302230": {
+    "ts": 1789781650.6909685,
+    "keyword": "Registro Civil"
+  },
+  "3d7a3d18e6c183d90e6318a8": {
+    "ts": 1789781652.2158742,
+    "keyword": "Registro Civil"
+  },
+  "d950d2507623b4e833c3ccc3": {
+    "ts": 1789781678.673228,
+    "keyword": "Postal"
   }
 }
