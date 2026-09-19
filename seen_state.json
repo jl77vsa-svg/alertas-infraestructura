@@ -2874,5 +2874,53 @@
   "3cbb12937f2795e97b1d9842": {
     "ts": 1789799845.5623782,
     "keyword": "Registro Civil"
+  },
+  "4f7f789cf5158305364632ad": {
+    "ts": 1789817937.3753152,
+    "keyword": "Conectividad"
+  },
+  "981e10caaa6d590a2f985c13": {
+    "ts": 1789817960.2103932,
+    "keyword": "Internet"
+  },
+  "24b4d217f17fe9ecd2884909": {
+    "ts": 1789817961.6245039,
+    "keyword": "Internet"
+  },
+  "7e70615d5ecd86d657911c8d": {
+    "ts": 1789817963.0711668,
+    "keyword": "Internet"
+  },
+  "19669fc338699152d6c87848": {
+    "ts": 1789817976.0572264,
+    "keyword": "Vivienda"
+  },
+  "90959e6948031319f2a8c1de": {
+    "ts": 1789817977.4802692,
+    "keyword": "Vivienda"
+  },
+  "50caef5d3e1e7d676d02e031": {
+    "ts": 1789817978.9284487,
+    "keyword": "Vivienda"
+  },
+  "391b573237dfaeb1f6507394": {
+    "ts": 1789817980.3601186,
+    "keyword": "Vivienda"
+  },
+  "7602c95ab5969fd24ba6a7a0": {
+    "ts": 1789818031.0261264,
+    "keyword": "Registro Civil"
+  },
+  "6e98c8b9762e329a8a89c4db": {
+    "ts": 1789818058.3793743,
+    "keyword": "Postal"
+  },
+  "9d81e98d01ea97df0951a3fe": {
+    "ts": 1789818059.8279843,
+    "keyword": "Postal"
+  },
+  "482229af6de6e5fbd9d7af7d": {
+    "ts": 1789818061.2646463,
+    "keyword": "Postal"
   }
 }
