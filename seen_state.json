@@ -3042,5 +3042,37 @@
   "0bdda03fa33239b6de3a62ec": {
     "ts": 1789850097.8153152,
     "keyword": "Arcotel"
+  },
+  "0feb444a0ad24e62b5083ec1": {
+    "ts": 1789857010.0544136,
+    "keyword": "Conectividad"
+  },
+  "c3005b8b81026342d5429a6a": {
+    "ts": 1789857011.6085224,
+    "keyword": "Conectividad"
+  },
+  "c68965311f506f04b7243fb2": {
+    "ts": 1789857043.3223991,
+    "keyword": "Internet"
+  },
+  "7d8df998e10df488de293f4f": {
+    "ts": 1789857044.933949,
+    "keyword": "Internet"
+  },
+  "a64462c2b1f251d3143e015c": {
+    "ts": 1789857046.4910817,
+    "keyword": "Internet"
+  },
+  "8b01b379b69685bfeec9d7fd": {
+    "ts": 1789857048.0483487,
+    "keyword": "Internet"
+  },
+  "b9e600ab4e4d4645d2812e0e": {
+    "ts": 1789857114.820095,
+    "keyword": "CNT"
+  },
+  "96090f3ba77938248c9c33c6": {
+    "ts": 1789857116.3693151,
+    "keyword": "CNT"
   }
 }
