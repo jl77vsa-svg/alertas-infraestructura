@@ -3178,5 +3178,41 @@
   "25b5fcc826febdc13137faa4": {
     "ts": 1789913923.4454606,
     "keyword": "Carreteras"
+  },
+  "613034e9ed3fb4c4492a8880": {
+    "ts": 1789925614.5101073,
+    "keyword": "Conectividad"
+  },
+  "46ec5b12e7a82c413bdb0131": {
+    "ts": 1789925615.936848,
+    "keyword": "Conectividad"
+  },
+  "250df6ac38158bbe702b1472": {
+    "ts": 1789925617.3862739,
+    "keyword": "Conectividad"
+  },
+  "c00ec41182ca74be23a00228": {
+    "ts": 1789925645.48959,
+    "keyword": "Internet"
+  },
+  "ce3c1888c1ae388dc93a92f2": {
+    "ts": 1789925646.9422088,
+    "keyword": "Internet"
+  },
+  "93574cd3d677d5eec799fee4": {
+    "ts": 1789925648.4093418,
+    "keyword": "Internet"
+  },
+  "2260b9e40a0dae9598f67c90": {
+    "ts": 1789925662.5728989,
+    "keyword": "Vivienda"
+  },
+  "bb29b8040972621082dc7c87": {
+    "ts": 1789925664.0024312,
+    "keyword": "Vivienda"
+  },
+  "ccdba790497ef9aa4b6e93b9": {
+    "ts": 1789925717.6084464,
+    "keyword": "Registro Civil"
   }
 }
