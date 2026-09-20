@@ -3074,5 +3074,29 @@
   "96090f3ba77938248c9c33c6": {
     "ts": 1789857116.3693151,
     "keyword": "CNT"
+  },
+  "5cd22537985a5e489cefe957": {
+    "ts": 1789863730.429644,
+    "keyword": "Conectividad"
+  },
+  "912e2d838b45634a11e40fec": {
+    "ts": 1789863731.876043,
+    "keyword": "Conectividad"
+  },
+  "e610fe8d705c309c42b94c7a": {
+    "ts": 1789863755.6729121,
+    "keyword": "Internet"
+  },
+  "30e8120445312c0b7178d942": {
+    "ts": 1789863757.124184,
+    "keyword": "Internet"
+  },
+  "f536bdc6a49d7430ee858a2e": {
+    "ts": 1789863769.2419455,
+    "keyword": "Vivienda"
+  },
+  "e5c17ee384ac4efb2794e28e": {
+    "ts": 1789863770.658702,
+    "keyword": "Vivienda"
   }
 }
