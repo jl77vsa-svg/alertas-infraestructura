@@ -3146,5 +3146,37 @@
   "3e359c79485172649e11b146": {
     "ts": 1789898820.5337133,
     "keyword": "Registro Civil"
+  },
+  "4bce856814b743ee8937adb5": {
+    "ts": 1789913789.210977,
+    "keyword": "MIT"
+  },
+  "336634b07ddbbbbb70ca6796": {
+    "ts": 1789913790.6731832,
+    "keyword": "MIT"
+  },
+  "926a4d7d15bec4b13e2642fd": {
+    "ts": 1789913868.870878,
+    "keyword": "Conectividad"
+  },
+  "cd046f330bb7b399546be151": {
+    "ts": 1789913870.3386261,
+    "keyword": "Conectividad"
+  },
+  "41f001cdeb1892c3ff674de8": {
+    "ts": 1789913882.9757023,
+    "keyword": "Brecha digital"
+  },
+  "d50cb8824789629f580ea659": {
+    "ts": 1789913896.9423156,
+    "keyword": "Internet"
+  },
+  "297f1874277afdaa177a5786": {
+    "ts": 1789913910.4216387,
+    "keyword": "Vivienda"
+  },
+  "25b5fcc826febdc13137faa4": {
+    "ts": 1789913923.4454606,
+    "keyword": "Carreteras"
   }
 }
