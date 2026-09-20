@@ -3098,5 +3098,33 @@
   "e5c17ee384ac4efb2794e28e": {
     "ts": 1789863770.658702,
     "keyword": "Vivienda"
+  },
+  "27533282df1eaa55c4fe24bf": {
+    "ts": 1789881713.4392989,
+    "keyword": "Conectividad"
+  },
+  "d9aff4c5741c590c6b52c7ce": {
+    "ts": 1789881726.0435767,
+    "keyword": "Brecha digital"
+  },
+  "9b0d4e4b470b79aa1cc31fda": {
+    "ts": 1789881738.405203,
+    "keyword": "Internet"
+  },
+  "7c35b3d665f347b18fdbd28e": {
+    "ts": 1789881750.5849516,
+    "keyword": "Vivienda"
+  },
+  "15baff5369a3c91ae3314629": {
+    "ts": 1789881752.0102339,
+    "keyword": "Vivienda"
+  },
+  "8f1c86f0ebdb3295bdf00624": {
+    "ts": 1789881753.4352248,
+    "keyword": "Vivienda"
+  },
+  "1147dd58d1440ac907ba45f1": {
+    "ts": 1789881796.4383266,
+    "keyword": "Registro Civil"
   }
 }
