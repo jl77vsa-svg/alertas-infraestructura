@@ -3318,5 +3318,85 @@
   "136822295f2ba1816dcbbfbd": {
     "ts": 1789967385.9462144,
     "keyword": "Vivienda"
+  },
+  "15bd95e4d3e9c44423a94e93": {
+    "ts": 1789987879.2224917,
+    "keyword": "Conectividad"
+  },
+  "7aa21500e1e157f77f444dd7": {
+    "ts": 1789987880.7608218,
+    "keyword": "Conectividad"
+  },
+  "724261c73eeb4d52f0e98c6f": {
+    "ts": 1789987882.3310218,
+    "keyword": "Conectividad"
+  },
+  "306ccce7bbc060c8e79a077e": {
+    "ts": 1789987883.8365562,
+    "keyword": "Conectividad"
+  },
+  "7c2ce4c070588a51c79174ea": {
+    "ts": 1789987908.8712487,
+    "keyword": "Internet"
+  },
+  "8f678d3a01988c32d4bc6099": {
+    "ts": 1789987910.416068,
+    "keyword": "Internet"
+  },
+  "bc7746efc536272029a60923": {
+    "ts": 1789987911.9802213,
+    "keyword": "Internet"
+  },
+  "caaec12678ec3f548b570990": {
+    "ts": 1789987913.4872499,
+    "keyword": "Internet"
+  },
+  "40ba90cbc0b15673729b4d87": {
+    "ts": 1789987914.9976077,
+    "keyword": "Internet"
+  },
+  "c5331b5816e1b849fa45885c": {
+    "ts": 1789987916.5355265,
+    "keyword": "Internet"
+  },
+  "9ae7133537952bd5c43cd80a": {
+    "ts": 1789987929.7126803,
+    "keyword": "Vivienda"
+  },
+  "dcd277fe9edfeeab0c46a0d6": {
+    "ts": 1789987931.2624307,
+    "keyword": "Vivienda"
+  },
+  "3cc4af6f435799adfaae604b": {
+    "ts": 1789987932.7704818,
+    "keyword": "Vivienda"
+  },
+  "ea4d8983494d1b09cc2d3e9b": {
+    "ts": 1789987934.2750351,
+    "keyword": "Vivienda"
+  },
+  "ea95509080825b587af476b3": {
+    "ts": 1789987935.815848,
+    "keyword": "Vivienda"
+  },
+  "b95567b61871ef32f4023312": {
+    "ts": 1789987949.4167387,
+    "keyword": "Carreteras"
+  },
+  "b931701da96f2d74c6c1a05e": {
+    "ts": 1789987950.9263256,
+    "keyword": "Carreteras"
+  },
+  "3e81e95feb8b02a5ce6cd222": {
+    "ts": 1789987952.4517043,
+    "keyword": "Carreteras"
+  },
+  "139d8e779293c3b05ba74a10": {
+    "ts": 1789988002.1997256,
+    "keyword": "Registro Civil"
+  },
+  "2aefab942fcbd705ea0719dc": {
+    "ts": 1789988003.748799,
+    "keyword": "Registro Civil"
   }
 }
