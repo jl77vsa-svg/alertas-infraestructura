@@ -3274,5 +3274,49 @@
   "a1a6f1b56bef643a742edbb4": {
     "ts": 1789949542.4521284,
     "keyword": "Registro Civil"
+  },
+  "e454f6790ba4ddeb51eeeb02": {
+    "ts": 1789967335.8916628,
+    "keyword": "Conectividad"
+  },
+  "2688b7873716a0dd9e3631e6": {
+    "ts": 1789967337.368372,
+    "keyword": "Conectividad"
+  },
+  "4c5cded99c854d436163b9c2": {
+    "ts": 1789967338.8487737,
+    "keyword": "Conectividad"
+  },
+  "12b3445f45e6137f9cdb5d1c": {
+    "ts": 1789967364.1911974,
+    "keyword": "Internet"
+  },
+  "dd93d86b80d18187e30e9527": {
+    "ts": 1789967365.6692765,
+    "keyword": "Internet"
+  },
+  "59775eada9dac51f4d7805a7": {
+    "ts": 1789967367.1549523,
+    "keyword": "Internet"
+  },
+  "a2563a93b7378924140a9f03": {
+    "ts": 1789967368.6596055,
+    "keyword": "Internet"
+  },
+  "d8eb5a49f70e947339f3d7d9": {
+    "ts": 1789967381.5041442,
+    "keyword": "Vivienda"
+  },
+  "8a156707762ac5f73d1a0188": {
+    "ts": 1789967382.9853063,
+    "keyword": "Vivienda"
+  },
+  "ab23f7413a605699f5758790": {
+    "ts": 1789967384.4598138,
+    "keyword": "Vivienda"
+  },
+  "136822295f2ba1816dcbbfbd": {
+    "ts": 1789967385.9462144,
+    "keyword": "Vivienda"
   }
 }
