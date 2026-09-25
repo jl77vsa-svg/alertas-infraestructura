@@ -1,64 +1,4 @@
 {
-  "efd4f13e0cfacb7001ed06fb": {
-    "ts": 1789694222.902319,
-    "keyword": "Conectividad"
-  },
-  "fe6fc9b6a82558d940652082": {
-    "ts": 1789694224.511054,
-    "keyword": "Conectividad"
-  },
-  "bc69f164f81d7acec0d8eb39": {
-    "ts": 1789694226.1257858,
-    "keyword": "Conectividad"
-  },
-  "356b7a51e3acdeaa5d081b06": {
-    "ts": 1789694239.9069612,
-    "keyword": "Brecha digital"
-  },
-  "e5bf0edb82bc794c02539a21": {
-    "ts": 1789694254.0431952,
-    "keyword": "Internet"
-  },
-  "eb832a3b1f86f7388d1d7af9": {
-    "ts": 1789694266.532224,
-    "keyword": "Vivienda"
-  },
-  "37503f5e473a622228426ea9": {
-    "ts": 1789694268.1194234,
-    "keyword": "Vivienda"
-  },
-  "4f2da5bf341d2bbe5f642ae4": {
-    "ts": 1789694269.710612,
-    "keyword": "Vivienda"
-  },
-  "177ed9ba1b13150914bce923": {
-    "ts": 1789694286.3835363,
-    "keyword": "Carreteras"
-  },
-  "4e163296ff32ced468963a48": {
-    "ts": 1789694312.24476,
-    "keyword": "CNT"
-  },
-  "1dd745467a42b3d756820c92": {
-    "ts": 1789694326.0180273,
-    "keyword": "Registro Civil"
-  },
-  "bb54065f4f8c372a2705a030": {
-    "ts": 1789694327.678073,
-    "keyword": "Registro Civil"
-  },
-  "ab947132749e28958983265f": {
-    "ts": 1789694329.325184,
-    "keyword": "Registro Civil"
-  },
-  "2b6ce44382938050af8f59cf": {
-    "ts": 1789694358.7398674,
-    "keyword": "Postal"
-  },
-  "cbc4860ee8882171eead3b83": {
-    "ts": 1789694360.3859463,
-    "keyword": "Postal"
-  },
   "c95e92050ed1975c9a7fe822": {
     "ts": 1789711530.2066383,
     "keyword": "Conectividad"
@@ -2698,5 +2638,69 @@
   "b2cd012971422e3c773a3f4f": {
     "ts": 1790296401.4174457,
     "keyword": "Registro Civil"
+  },
+  "63e4b8183b44ea4e5ff6a4ff": {
+    "ts": 1790313556.060273,
+    "keyword": "MIT"
+  },
+  "1390e04e0fafd34e97ecb2ad": {
+    "ts": 1790313643.5400271,
+    "keyword": "Conectividad"
+  },
+  "61cbc54b135dc697c86668a3": {
+    "ts": 1790313645.0006053,
+    "keyword": "Conectividad"
+  },
+  "e2ccb21d2fb618f2b3f5fae2": {
+    "ts": 1790313646.4675353,
+    "keyword": "Conectividad"
+  },
+  "0ad2369543fdbd9601304f1b": {
+    "ts": 1790313647.926266,
+    "keyword": "Conectividad"
+  },
+  "2de477cf3a9ffbee4c21bf3f": {
+    "ts": 1790313649.384757,
+    "keyword": "Conectividad"
+  },
+  "69f101b4d72e3a14df547a8f": {
+    "ts": 1790313685.1724186,
+    "keyword": "Internet"
+  },
+  "c0df217c6b7c3c0a44583d98": {
+    "ts": 1790313686.6268735,
+    "keyword": "Internet"
+  },
+  "1ef3b3339a86eea24c6f8d3f": {
+    "ts": 1790313700.2315006,
+    "keyword": "Vivienda"
+  },
+  "6eb6d6c92aa0e37c66659452": {
+    "ts": 1790313701.6845465,
+    "keyword": "Vivienda"
+  },
+  "7d39a2ac220b1c283a20eccf": {
+    "ts": 1790313703.1515322,
+    "keyword": "Vivienda"
+  },
+  "0d656f7ce4065e4b6678ea7d": {
+    "ts": 1790313704.6148202,
+    "keyword": "Vivienda"
+  },
+  "2fb596e80a33dfdddfbdcdfe": {
+    "ts": 1790313706.0701706,
+    "keyword": "Vivienda"
+  },
+  "b04eb848943489bbbd393382": {
+    "ts": 1790313741.6442597,
+    "keyword": "CNT"
+  },
+  "f2642e1bee85c184095b1a54": {
+    "ts": 1790313754.796683,
+    "keyword": "Registro Civil"
+  },
+  "2eecc01bd7a0559ae3c9098c": {
+    "ts": 1790313784.3941708,
+    "keyword": "Postal"
   }
 }
