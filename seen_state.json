@@ -1,44 +1,4 @@
 {
-  "4cfba50eba03ef0126fc183d": {
-    "ts": 1789849929.8628979,
-    "keyword": "MIT"
-  },
-  "2d1f1874ef712860f36d223c": {
-    "ts": 1789850022.811416,
-    "keyword": "Conectividad"
-  },
-  "54f854cd721461e14721e240": {
-    "ts": 1789850024.2448256,
-    "keyword": "Conectividad"
-  },
-  "3c97f3440b6b0121a229b7b0": {
-    "ts": 1789850025.6774802,
-    "keyword": "Conectividad"
-  },
-  "75e3e07b7679d62e27d48969": {
-    "ts": 1789850051.331034,
-    "keyword": "Internet"
-  },
-  "d3384ee987fb0a789d127a51": {
-    "ts": 1789850052.7736223,
-    "keyword": "Internet"
-  },
-  "5552095c39a4dc7b1fb22b59": {
-    "ts": 1789850054.201325,
-    "keyword": "Internet"
-  },
-  "75630f375eec990bef5fa362": {
-    "ts": 1789850055.624922,
-    "keyword": "Internet"
-  },
-  "34cc89bcbd9ed0a2bf54ae0e": {
-    "ts": 1789850084.0690846,
-    "keyword": "Carreteras"
-  },
-  "0bdda03fa33239b6de3a62ec": {
-    "ts": 1789850097.8153152,
-    "keyword": "Arcotel"
-  },
   "0feb444a0ad24e62b5083ec1": {
     "ts": 1789857010.0544136,
     "keyword": "Conectividad"
@@ -2873,6 +2833,86 @@
   },
   "00285e5db7a0f7c4a1e7dea8": {
     "ts": 1790448146.8600385,
+    "keyword": "Postal"
+  },
+  "d44953433a1186ffeb7b1ba0": {
+    "ts": 1790458665.3584597,
+    "keyword": "MIT"
+  },
+  "79f44fdf61baf21858af4bf5": {
+    "ts": 1790458666.9903266,
+    "keyword": "MIT"
+  },
+  "b4314919e1aabb8654d4a581": {
+    "ts": 1790458756.8212166,
+    "keyword": "Conectividad"
+  },
+  "2c6c2798562c681d743b4f54": {
+    "ts": 1790458758.4277134,
+    "keyword": "Conectividad"
+  },
+  "3029fc6e79e98002893ec5f1": {
+    "ts": 1790458760.0678275,
+    "keyword": "Conectividad"
+  },
+  "4131cff6fc23cab7ec7b1303": {
+    "ts": 1790458773.5600843,
+    "keyword": "Brecha digital"
+  },
+  "3434937d6b76f92213ed64e9": {
+    "ts": 1790458786.163098,
+    "keyword": "Internet"
+  },
+  "bcf9bfb94caeab78e0590195": {
+    "ts": 1790458787.7639785,
+    "keyword": "Internet"
+  },
+  "3f63366766ad6fb1c8e9a04f": {
+    "ts": 1790458789.4040565,
+    "keyword": "Internet"
+  },
+  "64d8e5c0f0cf721e8e5b4212": {
+    "ts": 1790458791.0026066,
+    "keyword": "Internet"
+  },
+  "835d4f9216f0692ab846258c": {
+    "ts": 1790458792.5901878,
+    "keyword": "Internet"
+  },
+  "5e39b68100300225055ded71": {
+    "ts": 1790458806.2809203,
+    "keyword": "Vivienda"
+  },
+  "8e800375a57e9186a0020c5a": {
+    "ts": 1790458807.8959854,
+    "keyword": "Vivienda"
+  },
+  "b9d9162f8388ab7d69957cdc": {
+    "ts": 1790458809.5340962,
+    "keyword": "Vivienda"
+  },
+  "3d089a957932ce9f54dc8cd6": {
+    "ts": 1790458811.1155515,
+    "keyword": "Vivienda"
+  },
+  "ea957f3aa7a1959d1f48cb60": {
+    "ts": 1790458812.7144537,
+    "keyword": "Vivienda"
+  },
+  "a36c44b6ac39efab87254302": {
+    "ts": 1790458814.3166583,
+    "keyword": "Vivienda"
+  },
+  "004089a790c8269ee0fb7adb": {
+    "ts": 1790458854.6827168,
+    "keyword": "CNT"
+  },
+  "cac49d31507a5db4d386df15": {
+    "ts": 1790458877.0101893,
+    "keyword": "Registro Civil"
+  },
+  "afca6ebfa382956f13e63248": {
+    "ts": 1790458901.6665566,
     "keyword": "Postal"
   }
 }
