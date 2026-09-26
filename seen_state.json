@@ -1,56 +1,4 @@
 {
-  "19e9462d5e15ae8a3bd885de": {
-    "ts": 1789840665.770731,
-    "keyword": "Conectividad"
-  },
-  "8cea5ce21403f5aa31053038": {
-    "ts": 1789840667.262101,
-    "keyword": "Conectividad"
-  },
-  "b3a5284f13304c71a94a8027": {
-    "ts": 1789840668.7636645,
-    "keyword": "Conectividad"
-  },
-  "45335a242d33dc9554559ea0": {
-    "ts": 1789840688.8954675,
-    "keyword": "Internet"
-  },
-  "145fdfc725e049ed2afd8b5d": {
-    "ts": 1789840690.388464,
-    "keyword": "Internet"
-  },
-  "375fb292b78ed0d1e4fc6756": {
-    "ts": 1789840691.895905,
-    "keyword": "Internet"
-  },
-  "9b9aa91319c08d37bb897a5d": {
-    "ts": 1789840707.6053677,
-    "keyword": "Vivienda"
-  },
-  "7c230d0d0302b2ec98ff6990": {
-    "ts": 1789840709.120586,
-    "keyword": "Vivienda"
-  },
-  "a9cfae426a0528b3c28a3a71": {
-    "ts": 1789840710.6134932,
-    "keyword": "Vivienda"
-  },
-  "121c9d2f55504970c5907948": {
-    "ts": 1789840720.703826,
-    "keyword": "Carreteras"
-  },
-  "3926516ed5b8602b1263c4b7": {
-    "ts": 1789840722.2040386,
-    "keyword": "Carreteras"
-  },
-  "c46a5691b31848621d747811": {
-    "ts": 1789840743.2072556,
-    "keyword": "CNT"
-  },
-  "4733a21692315470aa0400c9": {
-    "ts": 1789840754.1531057,
-    "keyword": "Registro Civil"
-  },
   "4cfba50eba03ef0126fc183d": {
     "ts": 1789849929.8628979,
     "keyword": "MIT"
@@ -2862,5 +2810,69 @@
   "387bbb913d56ea71e9d985b5": {
     "ts": 1790435460.1458542,
     "keyword": "Carreteras"
+  },
+  "10900d7f3363390afc5c87ee": {
+    "ts": 1790447911.9133272,
+    "keyword": "MIT"
+  },
+  "e7875baf42249f87487a6767": {
+    "ts": 1790447999.2648149,
+    "keyword": "Conectividad"
+  },
+  "c79616af584cecd90df2c67c": {
+    "ts": 1790448000.8297358,
+    "keyword": "Conectividad"
+  },
+  "fabdee6bf6c0d1e04f9b164c": {
+    "ts": 1790448002.3973744,
+    "keyword": "Conectividad"
+  },
+  "a14f1ef041c4d19009160678": {
+    "ts": 1790448003.9628696,
+    "keyword": "Conectividad"
+  },
+  "cf2374500df9e4ed965b33ae": {
+    "ts": 1790448005.5415597,
+    "keyword": "Conectividad"
+  },
+  "30b7acd5ebdc6c839bcef2ae": {
+    "ts": 1790448049.274113,
+    "keyword": "Internet"
+  },
+  "177b6d1e980cee70bbe1d770": {
+    "ts": 1790448050.8551705,
+    "keyword": "Internet"
+  },
+  "26e655933a5c5d4ee828a30c": {
+    "ts": 1790448052.4141936,
+    "keyword": "Internet"
+  },
+  "965ec4c9068229e3b929d537": {
+    "ts": 1790448053.9822085,
+    "keyword": "Internet"
+  },
+  "e1ef4e864c4f518ae91b95b7": {
+    "ts": 1790448070.2146943,
+    "keyword": "Vivienda"
+  },
+  "637e94d4c6b4d80ffd52a5ee": {
+    "ts": 1790448071.818792,
+    "keyword": "Vivienda"
+  },
+  "bc493585848ed4f11623e7c3": {
+    "ts": 1790448073.3785138,
+    "keyword": "Vivienda"
+  },
+  "0353966a170e7c97e7385870": {
+    "ts": 1790448111.6078644,
+    "keyword": "CNT"
+  },
+  "6b0a9efb92274991e4d0fa87": {
+    "ts": 1790448123.4989765,
+    "keyword": "Registro Civil"
+  },
+  "00285e5db7a0f7c4a1e7dea8": {
+    "ts": 1790448146.8600385,
+    "keyword": "Postal"
   }
 }
