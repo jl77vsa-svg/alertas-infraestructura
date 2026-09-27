@@ -1,52 +1,4 @@
 {
-  "27533282df1eaa55c4fe24bf": {
-    "ts": 1789881713.4392989,
-    "keyword": "Conectividad"
-  },
-  "d9aff4c5741c590c6b52c7ce": {
-    "ts": 1789881726.0435767,
-    "keyword": "Brecha digital"
-  },
-  "9b0d4e4b470b79aa1cc31fda": {
-    "ts": 1789881738.405203,
-    "keyword": "Internet"
-  },
-  "7c35b3d665f347b18fdbd28e": {
-    "ts": 1789881750.5849516,
-    "keyword": "Vivienda"
-  },
-  "15baff5369a3c91ae3314629": {
-    "ts": 1789881752.0102339,
-    "keyword": "Vivienda"
-  },
-  "8f1c86f0ebdb3295bdf00624": {
-    "ts": 1789881753.4352248,
-    "keyword": "Vivienda"
-  },
-  "1147dd58d1440ac907ba45f1": {
-    "ts": 1789881796.4383266,
-    "keyword": "Registro Civil"
-  },
-  "1196096ad1a24ddddf44994f": {
-    "ts": 1789898622.3431876,
-    "keyword": "MIT"
-  },
-  "331389040e8a20264b845453": {
-    "ts": 1789898741.9837835,
-    "keyword": "Internet"
-  },
-  "3cd4d02bd014a3d86066c15e": {
-    "ts": 1789898784.426667,
-    "keyword": "Arcotel"
-  },
-  "81af4e34e7f5b288f145b143": {
-    "ts": 1789898797.4080021,
-    "keyword": "CNT"
-  },
-  "3e359c79485172649e11b146": {
-    "ts": 1789898820.5337133,
-    "keyword": "Registro Civil"
-  },
   "4bce856814b743ee8937adb5": {
     "ts": 1789913789.210977,
     "keyword": "MIT"
@@ -2970,5 +2922,69 @@
   "496c96c4d1284c54f201d11e": {
     "ts": 1790486095.991165,
     "keyword": "Postal"
+  },
+  "3d4495aa485d97d268b651e2": {
+    "ts": 1790505489.5626712,
+    "keyword": "Conectividad"
+  },
+  "2545a9cb0682f7a802718f9f": {
+    "ts": 1790505490.9946635,
+    "keyword": "Conectividad"
+  },
+  "d3e99fe5a0e8819a6130f210": {
+    "ts": 1790505492.4351583,
+    "keyword": "Conectividad"
+  },
+  "d3a1df8b14384cab7cf58320": {
+    "ts": 1790505517.6144862,
+    "keyword": "Internet"
+  },
+  "d45d1ce1dc4396a9f27f5a68": {
+    "ts": 1790505519.0425363,
+    "keyword": "Internet"
+  },
+  "1a7a1eaafbbd76787e4796a2": {
+    "ts": 1790505520.4571588,
+    "keyword": "Internet"
+  },
+  "a737f9e4523f948525c59af7": {
+    "ts": 1790505522.6998317,
+    "keyword": "Internet"
+  },
+  "0dbb79fccea5ff0e3fb93883": {
+    "ts": 1790505533.7944896,
+    "keyword": "Vivienda"
+  },
+  "99d85477087c984c4faeebf4": {
+    "ts": 1790505535.2139554,
+    "keyword": "Vivienda"
+  },
+  "a6b1061dd6d0983567202360": {
+    "ts": 1790505536.6420994,
+    "keyword": "Vivienda"
+  },
+  "60cc408ea875ca90f48ef212": {
+    "ts": 1790505538.0840924,
+    "keyword": "Vivienda"
+  },
+  "f389cb63efdeca402695c2d3": {
+    "ts": 1790505539.5274806,
+    "keyword": "Vivienda"
+  },
+  "83e2bf0e6d80a4ae129c43ae": {
+    "ts": 1790505550.6645746,
+    "keyword": "Carreteras"
+  },
+  "8ad87bf3757b3d6ab6f37816": {
+    "ts": 1790505552.0795927,
+    "keyword": "Carreteras"
+  },
+  "dea58a2e55a7b44914ca8a19": {
+    "ts": 1790505553.5167007,
+    "keyword": "Carreteras"
+  },
+  "933d3f1a944e0b4381e572df": {
+    "ts": 1790505584.5250688,
+    "keyword": "Registro Civil"
   }
 }
