@@ -1,32 +1,4 @@
 {
-  "2862509ee1891a873aaa406a": {
-    "ts": 1789949359.1729443,
-    "keyword": "MIT"
-  },
-  "a37aa82422a8916bc64d2aef": {
-    "ts": 1789949449.1743011,
-    "keyword": "Conectividad"
-  },
-  "989deb68fdc83d7a6bc9b1af": {
-    "ts": 1789949450.759278,
-    "keyword": "Conectividad"
-  },
-  "eb88e7aa83d3b1f87326ad76": {
-    "ts": 1789949491.2089844,
-    "keyword": "Vivienda"
-  },
-  "29a5fd1849216fae24c34b71": {
-    "ts": 1789949492.7853656,
-    "keyword": "Vivienda"
-  },
-  "ba10c1c5b6d41784322c2d41": {
-    "ts": 1789949505.7355874,
-    "keyword": "Carreteras"
-  },
-  "a1a6f1b56bef643a742edbb4": {
-    "ts": 1789949542.4521284,
-    "keyword": "Registro Civil"
-  },
   "e454f6790ba4ddeb51eeeb02": {
     "ts": 1789967335.8916628,
     "keyword": "Conectividad"
@@ -3074,5 +3046,57 @@
   "d0a00610356e7c2ed19783e7": {
     "ts": 1790547837.5398073,
     "keyword": "CNT"
+  },
+  "011847ecbe234c454e41803d": {
+    "ts": 1790557726.9751365,
+    "keyword": "Conectividad"
+  },
+  "e88e17b0f8490ab0e660a1ea": {
+    "ts": 1790557728.5090196,
+    "keyword": "Conectividad"
+  },
+  "a194d1b6ed4d71a77ea6713f": {
+    "ts": 1790557730.0379372,
+    "keyword": "Conectividad"
+  },
+  "c4421db4325decfde8d306cd": {
+    "ts": 1790557731.5482404,
+    "keyword": "Conectividad"
+  },
+  "caa06f7ef1a445ca5aef45c5": {
+    "ts": 1790557733.0617425,
+    "keyword": "Conectividad"
+  },
+  "552d660dd846601fe3724e0d": {
+    "ts": 1790557760.4062202,
+    "keyword": "Internet"
+  },
+  "c0db15670dabf63d0c7e5e2d": {
+    "ts": 1790557761.9183784,
+    "keyword": "Internet"
+  },
+  "7d2ca2140b4b3ba77f5ec414": {
+    "ts": 1790557763.4401138,
+    "keyword": "Internet"
+  },
+  "cc62d37569bb242268fd637c": {
+    "ts": 1790557764.9746375,
+    "keyword": "Internet"
+  },
+  "8c02a08ddca721a2f5222d1d": {
+    "ts": 1790557766.49437,
+    "keyword": "Internet"
+  },
+  "8168fb45bf95d027ae667dc1": {
+    "ts": 1790557780.4333632,
+    "keyword": "Vivienda"
+  },
+  "5c4f8810d4b98ea7e9d768a1": {
+    "ts": 1790557781.9572525,
+    "keyword": "Vivienda"
+  },
+  "b8dda33cce8099437a60f190": {
+    "ts": 1790557783.4879751,
+    "keyword": "Vivienda"
   }
 }
