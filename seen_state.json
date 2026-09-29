@@ -1,72 +1,4 @@
 {
-  "cde22fb663ca67d8f0b4b628": {
-    "ts": 1790052501.652076,
-    "keyword": "MIT"
-  },
-  "bafae2a99184585d5d2d1728": {
-    "ts": 1790052610.711641,
-    "keyword": "Conectividad"
-  },
-  "02fc9536a924099673368d07": {
-    "ts": 1790052612.2981067,
-    "keyword": "Conectividad"
-  },
-  "598879489303668b4dbc2836": {
-    "ts": 1790052613.8917153,
-    "keyword": "Conectividad"
-  },
-  "4a90c8efe83749169eeb0176": {
-    "ts": 1790052615.5392888,
-    "keyword": "Conectividad"
-  },
-  "a2a6af6e729b3068d0643396": {
-    "ts": 1790052640.5648143,
-    "keyword": "Internet"
-  },
-  "650483fdeb17c7b9df5d2370": {
-    "ts": 1790052653.9116292,
-    "keyword": "Vivienda"
-  },
-  "78736fd34ab4096cc5394476": {
-    "ts": 1790052655.4922118,
-    "keyword": "Vivienda"
-  },
-  "1ef7d4c7a9c91a0c6ac933ee": {
-    "ts": 1790052657.0685885,
-    "keyword": "Vivienda"
-  },
-  "bc948a494d685bc0f7c1da26": {
-    "ts": 1790052658.724269,
-    "keyword": "Vivienda"
-  },
-  "9527bda6f2f5a095dfb38273": {
-    "ts": 1790052673.4976184,
-    "keyword": "Carreteras"
-  },
-  "13ebf93bac4cbdde306cda24": {
-    "ts": 1790052675.0660882,
-    "keyword": "Carreteras"
-  },
-  "2da1df1f0a827185b80902ca": {
-    "ts": 1790052676.6469219,
-    "keyword": "Carreteras"
-  },
-  "18b271e4d874e881c9ff0c14": {
-    "ts": 1790052717.5011,
-    "keyword": "Registro Civil"
-  },
-  "f937dcdfa6cb5c1419fc5e63": {
-    "ts": 1790052719.0778081,
-    "keyword": "Registro Civil"
-  },
-  "a6106f9e06e6ba7a13e2ae93": {
-    "ts": 1790052746.4832985,
-    "keyword": "Postal"
-  },
-  "d230efc632037621f18f9276": {
-    "ts": 1790052748.0606768,
-    "keyword": "Postal"
-  },
   "b519350f6250fba9614312b1": {
     "ts": 1790069551.8487182,
     "keyword": "MIT"
@@ -3073,6 +3005,134 @@
   },
   "d560494b0a32793c91939773": {
     "ts": 1790644679.3421233,
+    "keyword": "Ricardo Gutiérrez"
+  },
+  "4f8a2b01dd8a3c7b86f83a06": {
+    "ts": 1790665237.0824847,
+    "keyword": "MIT"
+  },
+  "8c369f0b02fc356a728afab0": {
+    "ts": 1790665355.4986758,
+    "keyword": "Conectividad"
+  },
+  "d575e14ac1acec8715cfce20": {
+    "ts": 1790665356.9238236,
+    "keyword": "Conectividad"
+  },
+  "627bb3cb133240992f00fdbc": {
+    "ts": 1790665358.3472898,
+    "keyword": "Conectividad"
+  },
+  "b3653bab5f27b0f543688266": {
+    "ts": 1790665359.768727,
+    "keyword": "Conectividad"
+  },
+  "2620e2bd0130806c143125eb": {
+    "ts": 1790665361.193365,
+    "keyword": "Conectividad"
+  },
+  "9e7718dfbac122fdd815d342": {
+    "ts": 1790665362.6232905,
+    "keyword": "Conectividad"
+  },
+  "efa2d1ae32d6c9b85dfa05f0": {
+    "ts": 1790665376.1147234,
+    "keyword": "Brecha digital"
+  },
+  "023f36518a5715a8750ec004": {
+    "ts": 1790665390.3258803,
+    "keyword": "Internet"
+  },
+  "28b4050a0d5794856ef405dc": {
+    "ts": 1790665391.7767472,
+    "keyword": "Internet"
+  },
+  "7dbf79b898e46111ced9250d": {
+    "ts": 1790665393.196981,
+    "keyword": "Internet"
+  },
+  "f80f92dbdcec1008757fb05f": {
+    "ts": 1790665407.1700392,
+    "keyword": "Vivienda"
+  },
+  "b0f0aaabe7cd2d67353ff2d4": {
+    "ts": 1790665408.594653,
+    "keyword": "Vivienda"
+  },
+  "f6c815165fc0d729b5379519": {
+    "ts": 1790665410.0306606,
+    "keyword": "Vivienda"
+  },
+  "7046e2f4ea8ba968f44eb30f": {
+    "ts": 1790665411.4412632,
+    "keyword": "Vivienda"
+  },
+  "584c3087652c21e258b99473": {
+    "ts": 1790665412.8765762,
+    "keyword": "Vivienda"
+  },
+  "2f33e6fb1f0a617348302ce1": {
+    "ts": 1790665414.3085525,
+    "keyword": "Vivienda"
+  },
+  "ac7dab92564c15099240c17b": {
+    "ts": 1790665415.8353899,
+    "keyword": "Vivienda"
+  },
+  "834eed332b6aed9e18f7757b": {
+    "ts": 1790665417.259449,
+    "keyword": "Vivienda"
+  },
+  "37dbc5385dadc029eb73623c": {
+    "ts": 1790665418.6757174,
+    "keyword": "Vivienda"
+  },
+  "aaa6ff30fb017b13c9c101f5": {
+    "ts": 1790665431.6320138,
+    "keyword": "Carreteras"
+  },
+  "ba1f4ab05607df11631ebb05": {
+    "ts": 1790665433.058796,
+    "keyword": "Carreteras"
+  },
+  "820c5dc4626cd104b8c30eba": {
+    "ts": 1790665434.4918277,
+    "keyword": "Carreteras"
+  },
+  "ef3479994f7bca34501bea32": {
+    "ts": 1790665435.9039078,
+    "keyword": "Carreteras"
+  },
+  "6150ffc30bd9e4b139a24876": {
+    "ts": 1790665437.3278391,
+    "keyword": "Carreteras"
+  },
+  "4d66fb71a3c0141aca99db1c": {
+    "ts": 1790665462.8366246,
+    "keyword": "CNT"
+  },
+  "d0b67e538125b6548d1372b1": {
+    "ts": 1790665476.5479014,
+    "keyword": "Registro Civil"
+  },
+  "7f8831152749d9957578a3ed": {
+    "ts": 1790665477.9735558,
+    "keyword": "Registro Civil"
+  },
+  "2f3ce98cd14f33fc58212e0f": {
+    "ts": 1790665479.402043,
+    "keyword": "Registro Civil"
+  },
+  "d567f804125d5c2e188dc059": {
+    "ts": 1790665509.5358477,
+    "keyword": "Postal"
+  },
+  "029692015913bf687ca04777": {
+    "ts": 1790665510.965049,
+    "keyword": "Postal"
+  },
+  "9dba7a6fcc466e93c40cafd9": {
+    "ts": 1790665562.9446468,
     "keyword": "Ricardo Gutiérrez"
   }
 }
