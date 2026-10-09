@@ -1,120 +1,4 @@
 {
-  "86f1f4f812e1fca8bb6e8600": {
-    "ts": 1790906906.228883,
-    "keyword": "MIT"
-  },
-  "256fd78aa5fd4b01ad8da220": {
-    "ts": 1790906907.8288183,
-    "keyword": "MIT"
-  },
-  "d18449376bf4c91d281ef941": {
-    "ts": 1790907010.334542,
-    "keyword": "Conectividad"
-  },
-  "b0be3f79ab69775706240027": {
-    "ts": 1790907011.9283605,
-    "keyword": "Conectividad"
-  },
-  "4a475365d030a0e2b2346ae8": {
-    "ts": 1790907013.537769,
-    "keyword": "Conectividad"
-  },
-  "fd5c2fe00eb23c958b54d79f": {
-    "ts": 1790907015.1769257,
-    "keyword": "Conectividad"
-  },
-  "028e0953b95ae2d487b7e9a4": {
-    "ts": 1790907016.789571,
-    "keyword": "Conectividad"
-  },
-  "fc62b91b6a5d949e59f2e3e7": {
-    "ts": 1790907018.40976,
-    "keyword": "Conectividad"
-  },
-  "c49347ad4ab87c54b77a3af4": {
-    "ts": 1790907031.6074402,
-    "keyword": "Brecha digital"
-  },
-  "22579567d3ee9a54cb81f754": {
-    "ts": 1790907033.234214,
-    "keyword": "Brecha digital"
-  },
-  "a874f9ec4f74c1fc421713bf": {
-    "ts": 1790907058.912916,
-    "keyword": "Internet"
-  },
-  "da0cf1b64c0ce864975f638f": {
-    "ts": 1790907060.524934,
-    "keyword": "Internet"
-  },
-  "8363ecb35423c5a6a4d35d80": {
-    "ts": 1790907062.1290357,
-    "keyword": "Internet"
-  },
-  "f8d00a07811745837b09a1ff": {
-    "ts": 1790907063.7557857,
-    "keyword": "Internet"
-  },
-  "1a5e2cc3caf3a5517c0880b4": {
-    "ts": 1790907065.370831,
-    "keyword": "Internet"
-  },
-  "88e59f6393b15b5b2c056879": {
-    "ts": 1790907066.9814143,
-    "keyword": "Internet"
-  },
-  "5415fe4f1e70553b7c59a7c6": {
-    "ts": 1790907079.8161962,
-    "keyword": "Vivienda"
-  },
-  "6058b0b298fe9207661e71d6": {
-    "ts": 1790907081.4191868,
-    "keyword": "Vivienda"
-  },
-  "925b00cf307bdc8e30c3d986": {
-    "ts": 1790907083.0242112,
-    "keyword": "Vivienda"
-  },
-  "affeeb1c59c1bff477d2bc38": {
-    "ts": 1790907084.6476088,
-    "keyword": "Vivienda"
-  },
-  "52a9dcaf7bbbf13313f304ae": {
-    "ts": 1790907086.2514575,
-    "keyword": "Vivienda"
-  },
-  "3ac61fb30011e9268ee2f52d": {
-    "ts": 1790907099.0827756,
-    "keyword": "Carreteras"
-  },
-  "f43ca50e259e2649c534684e": {
-    "ts": 1790907100.687273,
-    "keyword": "Carreteras"
-  },
-  "ffdd7a38bdd99af2531f9082": {
-    "ts": 1790907126.035821,
-    "keyword": "CNT"
-  },
-  "6bf4fe86bca86ebbf47ab8bf": {
-    "ts": 1790907127.6394813,
-    "keyword": "CNT"
-  },
-  "6ee50685e9271140726821fc": {
-    "ts": 1790907129.236017,
-    "keyword": "CNT"
-  },
-  "340d8dcd7896f85ac1309707": {
-    "ts": 1790907143.2707622,
-    "keyword": "Registro Civil"
-  },
-  "0cbea45e92acc14cdbb2f257": {
-    "ts": 1790907170.2406328,
-    "keyword": "Postal"
-  },
-  "8fc8555efce56311b201ca2e": {
-    "ts": 1790907171.8440113,
-    "keyword": "Postal"
-  },
   "93b1ba6d4ecce7f221c29ae9": {
     "ts": 1790930344.217129,
     "keyword": "MIT"
@@ -2989,6 +2873,58 @@
   },
   "e3e49ac45c201e27ccbd56c5": {
     "ts": 1791503954.3292565,
+    "keyword": "Postal"
+  },
+  "806a3bac12819ce47b120700": {
+    "ts": 1791525484.484733,
+    "keyword": "MIT"
+  },
+  "a2031509c24e4b1a99ee094c": {
+    "ts": 1791525485.9648414,
+    "keyword": "MIT"
+  },
+  "a9aa82b1cd61de3b49085f56": {
+    "ts": 1791525568.0503852,
+    "keyword": "Conectividad"
+  },
+  "a231708f280d70e165115876": {
+    "ts": 1791525569.533246,
+    "keyword": "Conectividad"
+  },
+  "aed3fb31fb2c637e27a65fe0": {
+    "ts": 1791525581.2194235,
+    "keyword": "Brecha digital"
+  },
+  "9be41969e80e8e4d965600ec": {
+    "ts": 1791525593.5502725,
+    "keyword": "Internet"
+  },
+  "1e7515560e8ebbfb02cf3e34": {
+    "ts": 1791525595.0255988,
+    "keyword": "Internet"
+  },
+  "213acb341328d01f1a609ca3": {
+    "ts": 1791525609.2207463,
+    "keyword": "Vivienda"
+  },
+  "7a9456fe0a74298f2466cd7d": {
+    "ts": 1791525610.6988337,
+    "keyword": "Vivienda"
+  },
+  "24ce15354fcbed49dfc4541c": {
+    "ts": 1791525612.195431,
+    "keyword": "Vivienda"
+  },
+  "20a9e4061e634dde0185ba25": {
+    "ts": 1791525669.9978554,
+    "keyword": "CNT"
+  },
+  "d6c8465a5cb037895a2efd4b": {
+    "ts": 1791525714.7276356,
+    "keyword": "Postal"
+  },
+  "f334b2f9a716f56c09b32e44": {
+    "ts": 1791525716.2064202,
     "keyword": "Postal"
   }
 }
