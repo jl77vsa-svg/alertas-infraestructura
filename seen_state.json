@@ -1,64 +1,4 @@
 {
-  "d4b6b0e659cd9e4ac2944f3a": {
-    "ts": 1791035657.338338,
-    "keyword": "Conectividad"
-  },
-  "7aecc2d81ec6a66d75e4030d": {
-    "ts": 1791035658.7558687,
-    "keyword": "Conectividad"
-  },
-  "e9fc47b3ccfec91184bdf0ed": {
-    "ts": 1791035684.8518262,
-    "keyword": "Internet"
-  },
-  "2c6d5bd8d0d1b3ae4cad039a": {
-    "ts": 1791035686.2862248,
-    "keyword": "Internet"
-  },
-  "4507670ed012830d3c93e87f": {
-    "ts": 1791035698.7999918,
-    "keyword": "Vivienda"
-  },
-  "b16ac92eea3648cb526d9f5b": {
-    "ts": 1791035700.2319875,
-    "keyword": "Vivienda"
-  },
-  "2466e09dad301e0bdb518b4d": {
-    "ts": 1791035701.6671984,
-    "keyword": "Vivienda"
-  },
-  "e5b8a77f57ff506ffd5a6a12": {
-    "ts": 1791035703.108209,
-    "keyword": "Vivienda"
-  },
-  "3d5675ee713b79e5c0055619": {
-    "ts": 1791035704.5407188,
-    "keyword": "Vivienda"
-  },
-  "254b7f276e8fb849764e29e6": {
-    "ts": 1791035705.9795198,
-    "keyword": "Vivienda"
-  },
-  "8cda7ef86577018c732a3991": {
-    "ts": 1791035707.406472,
-    "keyword": "Vivienda"
-  },
-  "cf83025ea5e10ec59a3a0f2a": {
-    "ts": 1791035708.8336034,
-    "keyword": "Vivienda"
-  },
-  "bcd6d34ef20b66aae935ab88": {
-    "ts": 1791035722.624486,
-    "keyword": "Carreteras"
-  },
-  "a783ab42123262bc68e61c22": {
-    "ts": 1791035724.0497603,
-    "keyword": "Carreteras"
-  },
-  "a21b64ca1d75f414e087bdca": {
-    "ts": 1791035763.0609152,
-    "keyword": "Registro Civil"
-  },
   "990478ed6c2d2d470c6029e3": {
     "ts": 1791050068.7682528,
     "keyword": "Conectividad"
@@ -2790,5 +2730,57 @@
   "8515c8c762a5e70b800654dc": {
     "ts": 1791622705.3762064,
     "keyword": "Postal"
+  },
+  "df2c71c79cf3005c190a26ed": {
+    "ts": 1791645402.1871037,
+    "keyword": "Conectividad"
+  },
+  "00125f0e6fbfd30b93262830": {
+    "ts": 1791645403.865146,
+    "keyword": "Conectividad"
+  },
+  "c9539b368db40c4f8d75592f": {
+    "ts": 1791645423.8474548,
+    "keyword": "Brecha digital"
+  },
+  "60843bed8d2773c5117486f4": {
+    "ts": 1791645425.5521123,
+    "keyword": "Brecha digital"
+  },
+  "7113b59af3ff07f1893c4af0": {
+    "ts": 1791645427.1954348,
+    "keyword": "Brecha digital"
+  },
+  "2956339c7232377e6155f981": {
+    "ts": 1791645441.1723113,
+    "keyword": "Internet"
+  },
+  "83c5386d034129aba8037541": {
+    "ts": 1791645442.8250086,
+    "keyword": "Internet"
+  },
+  "302226c222562ae47484fd39": {
+    "ts": 1791645444.4966717,
+    "keyword": "Internet"
+  },
+  "bb82b00403f5fe40c9954ffa": {
+    "ts": 1791645446.177322,
+    "keyword": "Internet"
+  },
+  "dad9ad4ef69cca3660f2129f": {
+    "ts": 1791645447.7775984,
+    "keyword": "Internet"
+  },
+  "ef69d3d840203c961149eef3": {
+    "ts": 1791645461.7809782,
+    "keyword": "Vivienda"
+  },
+  "aab84efff6f4bb17c8c1459b": {
+    "ts": 1791645463.452473,
+    "keyword": "Vivienda"
+  },
+  "cd0e82c26aaa4092eff89df7": {
+    "ts": 1791645513.2119126,
+    "keyword": "Registro Civil"
   }
 }
