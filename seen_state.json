@@ -1,72 +1,4 @@
 {
-  "a9d88efe5d286f3abf257b5e": {
-    "ts": 1791061656.691182,
-    "keyword": "MIT"
-  },
-  "a61ba41c09205685eabea5fe": {
-    "ts": 1791061748.1035986,
-    "keyword": "Conectividad"
-  },
-  "50d5e0a1b85f223861859536": {
-    "ts": 1791061749.5537183,
-    "keyword": "Conectividad"
-  },
-  "186f8934eea2081921f6e27a": {
-    "ts": 1791061750.992957,
-    "keyword": "Conectividad"
-  },
-  "bc160b64097bd6bb9a3f11c5": {
-    "ts": 1791061752.4251077,
-    "keyword": "Conectividad"
-  },
-  "9cd58eb4645d3dde9d1676da": {
-    "ts": 1791061753.8692513,
-    "keyword": "Conectividad"
-  },
-  "64ea58471ebe8a1a142bfdea": {
-    "ts": 1791061755.3128946,
-    "keyword": "Conectividad"
-  },
-  "78bec1e9fcf302fa22f04bc9": {
-    "ts": 1791061780.462774,
-    "keyword": "Internet"
-  },
-  "e14e8d0756088b755e7e59fd": {
-    "ts": 1791061792.7292943,
-    "keyword": "Vivienda"
-  },
-  "0818defa4da86a11b31eb71e": {
-    "ts": 1791061794.2728384,
-    "keyword": "Vivienda"
-  },
-  "e1319a933e46926a68b9f703": {
-    "ts": 1791061795.7625198,
-    "keyword": "Vivienda"
-  },
-  "10de44d023a83d9a0f85335a": {
-    "ts": 1791061797.218855,
-    "keyword": "Vivienda"
-  },
-  "a49d77475b62f3320df910eb": {
-    "ts": 1791061798.669444,
-    "keyword": "Vivienda"
-  },
-  "e8abb35dd020d3893fda43a8": {
-    "ts": 1791061800.1104515,
-    "keyword": "Vivienda"
-  },
-  "6405ca8882c1b536bf5cbdc8": {
-    "ts": 1791061819.6242123,
-    "keyword": "Carreteras"
-  },
-  "8d731cec85288e330e28dfc2": {
-    "ts": 1791061887.8246877,
-    "keyword": "Postal"
-  },
-  "76114ea818ab843e9c14aa69": {
-    "ts": 1791061889.266591,
-    "keyword": "Postal"
-  },
   "cbbcf49e1dcfc2876478cba0": {
     "ts": 1791071713.012344,
     "keyword": "Conectividad"
@@ -2785,6 +2717,46 @@
   },
   "4a6057de2dbd1a9479837a47": {
     "ts": 1791660336.7758923,
+    "keyword": "Postal"
+  },
+  "43350d07431000c893b757fd": {
+    "ts": 1791672901.8131843,
+    "keyword": "Internet"
+  },
+  "9d809cd56b63569e69f80568": {
+    "ts": 1791672903.250617,
+    "keyword": "Internet"
+  },
+  "3a384652435cd60b82d8b7a1": {
+    "ts": 1791672916.0924437,
+    "keyword": "Vivienda"
+  },
+  "343f1903669755777d7f3c44": {
+    "ts": 1791672917.5306437,
+    "keyword": "Vivienda"
+  },
+  "68268ad2c7343b143801c2f9": {
+    "ts": 1791672918.9898243,
+    "keyword": "Vivienda"
+  },
+  "c45fba6b2219c28348851f28": {
+    "ts": 1791672920.4187562,
+    "keyword": "Vivienda"
+  },
+  "80fb6416255f5fd162d04c7a": {
+    "ts": 1791672965.027417,
+    "keyword": "Registro Civil"
+  },
+  "a8a90a1aff0b63302450b1a9": {
+    "ts": 1791672966.4556122,
+    "keyword": "Registro Civil"
+  },
+  "648853ff38cb7915306e8ddc": {
+    "ts": 1791672984.7477183,
+    "keyword": "Postal"
+  },
+  "9411d5d33b505993345055b7": {
+    "ts": 1791672986.19076,
     "keyword": "Postal"
   }
 }
