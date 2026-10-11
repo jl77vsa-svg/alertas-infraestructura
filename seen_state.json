@@ -1,48 +1,4 @@
 {
-  "cbbcf49e1dcfc2876478cba0": {
-    "ts": 1791071713.012344,
-    "keyword": "Conectividad"
-  },
-  "3d08a113eb8c3e33f5a69931": {
-    "ts": 1791071714.6343603,
-    "keyword": "Conectividad"
-  },
-  "8072af5e694eb79962ca5eeb": {
-    "ts": 1791071739.1936064,
-    "keyword": "Internet"
-  },
-  "970228269759f62ef0c7deec": {
-    "ts": 1791071751.9175627,
-    "keyword": "Vivienda"
-  },
-  "d8a40d140072cc5987fbf64a": {
-    "ts": 1791071753.5391512,
-    "keyword": "Vivienda"
-  },
-  "95833235fbd92d6f7c16e393": {
-    "ts": 1791071755.1763988,
-    "keyword": "Vivienda"
-  },
-  "7969cea66e97d8809213dc7e": {
-    "ts": 1791071756.7917008,
-    "keyword": "Vivienda"
-  },
-  "d8afd2668ae162e8d545de6a": {
-    "ts": 1791071758.38933,
-    "keyword": "Vivienda"
-  },
-  "c30fc803d276923c45ff8616": {
-    "ts": 1791071801.8955986,
-    "keyword": "Registro Civil"
-  },
-  "800456bec3c97ffb957cad46": {
-    "ts": 1791071803.5361564,
-    "keyword": "Registro Civil"
-  },
-  "9fb776da0f41c6454aad8653": {
-    "ts": 1791071805.1767855,
-    "keyword": "Registro Civil"
-  },
   "61e3269502344e7168dcc89c": {
     "ts": 1791092610.8982244,
     "keyword": "Conectividad"
@@ -2758,5 +2714,41 @@
   "9411d5d33b505993345055b7": {
     "ts": 1791672986.19076,
     "keyword": "Postal"
+  },
+  "bfff0618329873fc7dfbc339": {
+    "ts": 1791683300.1196134,
+    "keyword": "MIT"
+  },
+  "a091fc61b40e79d783123895": {
+    "ts": 1791683301.6809118,
+    "keyword": "MIT"
+  },
+  "540a6721a5b722faca3dc86e": {
+    "ts": 1791683384.2100346,
+    "keyword": "Conectividad"
+  },
+  "458fdb6d871464771508f458": {
+    "ts": 1791683396.9146352,
+    "keyword": "Brecha digital"
+  },
+  "adb90cf7cab05f28fe877efd": {
+    "ts": 1791683410.4015384,
+    "keyword": "Internet"
+  },
+  "0793f538f669763cee20a81d": {
+    "ts": 1791683423.8529403,
+    "keyword": "Vivienda"
+  },
+  "ddf21275994b897846b26562": {
+    "ts": 1791683425.4049666,
+    "keyword": "Vivienda"
+  },
+  "6b6cc94655247c4662467248": {
+    "ts": 1791683426.9729888,
+    "keyword": "Vivienda"
+  },
+  "6ef2c2f9564182e1181e01e2": {
+    "ts": 1791683475.3027835,
+    "keyword": "Registro Civil"
   }
 }
