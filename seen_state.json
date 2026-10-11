@@ -1,8 +1,4 @@
 {
-  "8552501f0176921404b32049": {
-    "ts": 1791142343.040086,
-    "keyword": "MIT"
-  },
   "40ae41c4f2a3b67f4a2668a7": {
     "ts": 1791142432.2418997,
     "keyword": "Conectividad"
@@ -2681,6 +2677,78 @@
   },
   "34267f32a468a087ad36e585": {
     "ts": 1791730543.8527083,
+    "keyword": "Registro Civil"
+  },
+  "25a1c4d4d9950a8285029280": {
+    "ts": 1791746901.0908358,
+    "keyword": "MIT"
+  },
+  "7b4a0845961a3d0accb2c1af": {
+    "ts": 1791746902.5631533,
+    "keyword": "MIT"
+  },
+  "a330783db756cb2299ee4a92": {
+    "ts": 1791746999.8792942,
+    "keyword": "Conectividad"
+  },
+  "16f99b2898b83e9dc37e7351": {
+    "ts": 1791747001.328515,
+    "keyword": "Conectividad"
+  },
+  "05c9603587c2b926ab63926f": {
+    "ts": 1791747002.8136075,
+    "keyword": "Conectividad"
+  },
+  "11a46d18a9c198f55f8f6cc6": {
+    "ts": 1791747004.2874482,
+    "keyword": "Conectividad"
+  },
+  "aaadf62b8f452061d42aa271": {
+    "ts": 1791747022.2412596,
+    "keyword": "Brecha digital"
+  },
+  "22abbfb2ebb338e1b2018bfd": {
+    "ts": 1791747036.4217186,
+    "keyword": "Internet"
+  },
+  "0c83558af34ff6e87764edf6": {
+    "ts": 1791747037.8754888,
+    "keyword": "Internet"
+  },
+  "bba6c9f471a43191ee63fd70": {
+    "ts": 1791747039.3965569,
+    "keyword": "Internet"
+  },
+  "8da66e86ba940edfff56b47f": {
+    "ts": 1791747040.8697915,
+    "keyword": "Internet"
+  },
+  "aea2958c342a533cee29c8d3": {
+    "ts": 1791747056.8081598,
+    "keyword": "Vivienda"
+  },
+  "5338ed70716316e2696d0735": {
+    "ts": 1791747058.2539573,
+    "keyword": "Vivienda"
+  },
+  "b0e787dd2609774bcba63cef": {
+    "ts": 1791747059.7430038,
+    "keyword": "Vivienda"
+  },
+  "b79893b6c091406e90a3cef1": {
+    "ts": 1791747081.1581795,
+    "keyword": "Carreteras"
+  },
+  "808e7dd71e7694363e9a6518": {
+    "ts": 1791747082.6507173,
+    "keyword": "Carreteras"
+  },
+  "0aac0426bfe1c9dfbc1b3112": {
+    "ts": 1791747084.1449494,
+    "keyword": "Carreteras"
+  },
+  "1f03b874c8421f6eb62598ba": {
+    "ts": 1791747124.1860995,
     "keyword": "Registro Civil"
   }
 }
