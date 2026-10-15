@@ -1,12 +1,4 @@
 {
-  "b6060c5ba38ee9fbec4e887b": {
-    "ts": 1791487906.8487551,
-    "keyword": "MIT"
-  },
-  "34e94e70530020fdf1d2d8e3": {
-    "ts": 1791487908.26762,
-    "keyword": "MIT"
-  },
   "69bbbb5973dda6956f6d0442": {
     "ts": 1791488022.2564158,
     "keyword": "Conectividad"
@@ -2458,5 +2450,101 @@
   "bdbe0164ad5c31ffdff32a83": {
     "ts": 1792079195.9026535,
     "keyword": "Postal"
+  },
+  "3f9d8925a0631844ba3d9287": {
+    "ts": 1792092515.8737245,
+    "keyword": "MIT"
+  },
+  "5ec32d93d28532df7eac1657": {
+    "ts": 1792092517.3468654,
+    "keyword": "MIT"
+  },
+  "5cad8cc4132fdfd853134825": {
+    "ts": 1792092518.792339,
+    "keyword": "MIT"
+  },
+  "e9ba6aeae995e8a16e5f6126": {
+    "ts": 1792092520.2322862,
+    "keyword": "MIT"
+  },
+  "173633ee881603fc7c9164c6": {
+    "ts": 1792092521.6942751,
+    "keyword": "MIT"
+  },
+  "abbee19ab4c4a78135fe7913": {
+    "ts": 1792092604.9606907,
+    "keyword": "Conectividad"
+  },
+  "26c5c083b0f8fe0b6ac3c736": {
+    "ts": 1792092606.4191787,
+    "keyword": "Conectividad"
+  },
+  "050ddc3a92dafbaa5c4e3934": {
+    "ts": 1792092607.872698,
+    "keyword": "Conectividad"
+  },
+  "860519728e087f38a4c4aa48": {
+    "ts": 1792092609.3291163,
+    "keyword": "Conectividad"
+  },
+  "42000d70dee44c9010b0e601": {
+    "ts": 1792092632.4094033,
+    "keyword": "Brecha digital"
+  },
+  "e8057b6733986ded8db87282": {
+    "ts": 1792092633.9038422,
+    "keyword": "Brecha digital"
+  },
+  "1dbd406a58e2beba85920493": {
+    "ts": 1792092652.2581842,
+    "keyword": "Internet"
+  },
+  "efe14c2b446b322a94fa606e": {
+    "ts": 1792092653.7651126,
+    "keyword": "Internet"
+  },
+  "a2bfa82e9834680ae9927cbb": {
+    "ts": 1792092655.208416,
+    "keyword": "Internet"
+  },
+  "86dba08053ff82638ab8bffe": {
+    "ts": 1792092656.65154,
+    "keyword": "Internet"
+  },
+  "fcc876e5a5a4e9ec20179b04": {
+    "ts": 1792092673.173231,
+    "keyword": "Vivienda"
+  },
+  "15b9e2623b8fb5b0ee2ced75": {
+    "ts": 1792092674.6274436,
+    "keyword": "Vivienda"
+  },
+  "82c326fbc4dc8686b9528a9b": {
+    "ts": 1792092676.0705984,
+    "keyword": "Vivienda"
+  },
+  "07b73c19e69f760f8ea6e25a": {
+    "ts": 1792092698.8366861,
+    "keyword": "Carreteras"
+  },
+  "02a2fec69844c4e7ddc28b47": {
+    "ts": 1792092742.7025547,
+    "keyword": "Registro Civil"
+  },
+  "a13447d05d99dc45f11266da": {
+    "ts": 1792092744.15605,
+    "keyword": "Registro Civil"
+  },
+  "443ca7e9e6972a844245eff9": {
+    "ts": 1792092745.5937984,
+    "keyword": "Registro Civil"
+  },
+  "6846f13aabe525f22e6ab2d1": {
+    "ts": 1792092771.2050703,
+    "keyword": "Postal"
+  },
+  "bd052c3c14f20b3334b55f02": {
+    "ts": 1792092785.7295556,
+    "keyword": "Roberto Luque"
   }
 }
