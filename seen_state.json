@@ -1,108 +1,4 @@
 {
-  "69bbbb5973dda6956f6d0442": {
-    "ts": 1791488022.2564158,
-    "keyword": "Conectividad"
-  },
-  "588a3ed26b2bb49b778591e7": {
-    "ts": 1791488023.6778898,
-    "keyword": "Conectividad"
-  },
-  "24644ccd861b9a3a43f7953b": {
-    "ts": 1791488025.0966969,
-    "keyword": "Conectividad"
-  },
-  "a4f5a6c60549e4c51d1a6e17": {
-    "ts": 1791488026.526714,
-    "keyword": "Conectividad"
-  },
-  "3cbe2a51f9989ca5f9651929": {
-    "ts": 1791488039.5145283,
-    "keyword": "Brecha digital"
-  },
-  "ba2b59ad59f8a97049e972df": {
-    "ts": 1791488053.858376,
-    "keyword": "Internet"
-  },
-  "90ecf39eed1b802589cedc22": {
-    "ts": 1791488055.2865894,
-    "keyword": "Internet"
-  },
-  "1e7f47194957a85e491b9e98": {
-    "ts": 1791488056.7081032,
-    "keyword": "Internet"
-  },
-  "2adb7e0c44e25a53d0ca6c60": {
-    "ts": 1791488058.1432323,
-    "keyword": "Internet"
-  },
-  "d9ac09a90437584a9debb37d": {
-    "ts": 1791488059.5708327,
-    "keyword": "Internet"
-  },
-  "83fd86f17cf62d0338d91ae6": {
-    "ts": 1791488073.867047,
-    "keyword": "Vivienda"
-  },
-  "e1ffae754e92a753d5100e79": {
-    "ts": 1791488075.2878985,
-    "keyword": "Vivienda"
-  },
-  "f2ed5549cb10da2241271cf0": {
-    "ts": 1791488076.7101648,
-    "keyword": "Vivienda"
-  },
-  "06b48fc24e503c26073162c5": {
-    "ts": 1791488078.1477535,
-    "keyword": "Vivienda"
-  },
-  "548e7dcdcbb6a21659e96de4": {
-    "ts": 1791488079.5743554,
-    "keyword": "Vivienda"
-  },
-  "d695271913a506848219485a": {
-    "ts": 1791488080.9936457,
-    "keyword": "Vivienda"
-  },
-  "62332422f313775e97bf1aa0": {
-    "ts": 1791488082.4168634,
-    "keyword": "Vivienda"
-  },
-  "411e2a0db994c7d4295ceb25": {
-    "ts": 1791488083.8364275,
-    "keyword": "Vivienda"
-  },
-  "1dde8ab2e849d770162faf57": {
-    "ts": 1791488096.899013,
-    "keyword": "Carreteras"
-  },
-  "8fc4f48a7c5eb014ccd6c349": {
-    "ts": 1791488098.322394,
-    "keyword": "Carreteras"
-  },
-  "746c7fb5bfdb77c164135a89": {
-    "ts": 1791488144.342582,
-    "keyword": "Registro Civil"
-  },
-  "c442d8d37822cf6ab3e1b01b": {
-    "ts": 1791488145.7731018,
-    "keyword": "Registro Civil"
-  },
-  "1ff5cfc69a7a9333c81993b2": {
-    "ts": 1791488147.1942832,
-    "keyword": "Registro Civil"
-  },
-  "87f601f5a6b71f3b910fc9a5": {
-    "ts": 1791488148.6268525,
-    "keyword": "Registro Civil"
-  },
-  "f429041da7387cd3cca4abc4": {
-    "ts": 1791488150.0452192,
-    "keyword": "Registro Civil"
-  },
-  "9e0c9d69648c78e0d9c3f6bb": {
-    "ts": 1791488151.4637263,
-    "keyword": "Registro Civil"
-  },
   "367f84e846d0348cdfcf00e0": {
     "ts": 1791503779.9722173,
     "keyword": "MIT"
@@ -2546,5 +2442,57 @@
   "bd052c3c14f20b3334b55f02": {
     "ts": 1792092785.7295556,
     "keyword": "Roberto Luque"
+  },
+  "e6510797da642c998dcd54cd": {
+    "ts": 1792104038.7911549,
+    "keyword": "Conectividad"
+  },
+  "d65f84fe6bf3d8fe382fbf26": {
+    "ts": 1792104040.2295046,
+    "keyword": "Conectividad"
+  },
+  "966c7f5d1c50d1f5a56cdda9": {
+    "ts": 1792104041.661644,
+    "keyword": "Conectividad"
+  },
+  "095dddf8fafcfb4a2d69db0e": {
+    "ts": 1792104055.3778908,
+    "keyword": "Brecha digital"
+  },
+  "2a11b066c0e1aca4f6c1dbd8": {
+    "ts": 1792104071.8859553,
+    "keyword": "Internet"
+  },
+  "146299ae4ee7ad4d4e70d823": {
+    "ts": 1792104073.3513515,
+    "keyword": "Internet"
+  },
+  "db51213ca578fc35f04c0734": {
+    "ts": 1792104087.2572653,
+    "keyword": "Vivienda"
+  },
+  "2663a913a112246fa8ba0314": {
+    "ts": 1792104102.1384745,
+    "keyword": "Carreteras"
+  },
+  "dbae459c83198d90b846c4a7": {
+    "ts": 1792104120.7913659,
+    "keyword": "CNT"
+  },
+  "e344e4cb77bced8e832e1ef7": {
+    "ts": 1792104135.342043,
+    "keyword": "Registro Civil"
+  },
+  "6d8bb188bf5b90a549c006d5": {
+    "ts": 1792104136.7922208,
+    "keyword": "Registro Civil"
+  },
+  "964694585127167f4e29e25f": {
+    "ts": 1792104138.2222393,
+    "keyword": "Registro Civil"
+  },
+  "ca03ee95e8b143f0e926f524": {
+    "ts": 1792104139.6720536,
+    "keyword": "Registro Civil"
   }
 }
