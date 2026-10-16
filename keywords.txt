@@ -4,21 +4,42 @@
 
 # --- Institución y ministerio ---
 MIT
+Ministerio de Infraestructura
 Ministerio de Infraestructura y Tecnología
 
 # --- Programas y casos específicos ---
 Puntos Digitales Gratuitos
 Caso Progren
+PROGEN
 Programa Miti Miti
+Miti Miti
 Programa Yapa
 Quinto Puente
+DINARP
 
 # --- Temas / sectores ---
+Vías Ecuador
+Vía
+Carretera
+Carreteras
+Dragado
+Derrumbe
+Cierre vial
+Fenómeno del Niño
+Infraestructura
+Transporte
+Taxis
+Buses
+Aeropuertos
+Aviones
+Vivienda
+Casa
+Crédito vivienda
+Telecomunicaciones
 Conectividad
 Brecha digital
 Internet
-Vivienda
-Carreteras
+Celulares
 
 # --- Entidades relacionadas ---
 Arcotel
@@ -26,7 +47,15 @@ CNT
 Registro Civil
 Agencia Postal
 Postal
+Servicios Postales
+ANT
+CTE
+SPPAT
 
 # --- Personas ---
 Roberto Luque
 Ricardo Gutiérrez
+Byron Franco
+Daniel Elmir García
+Edwin Duque
+Eduardo Falquez
