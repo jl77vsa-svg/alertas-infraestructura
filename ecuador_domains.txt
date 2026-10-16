@@ -1,0 +1,7 @@
+# Dominios de medios/webs ecuatorianas adicionales (uno por línea, sin "www.").
+# El sistema ya reconoce automáticamente cualquier dominio que termine en ".ec",
+# y ya trae una lista base de medios comunes incluida en el código.
+# Agrega aquí cualquier medio ecuatoriano que notes que falta.
+#
+# Ejemplo:
+# miperiodicolocal.com
