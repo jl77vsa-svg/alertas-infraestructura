@@ -1,72 +1,4 @@
 {
-  "b9b9356948217e3027b5b935": {
-    "ts": 1791571912.5398352,
-    "keyword": "MIT"
-  },
-  "b5e044a43d3d6772877ef052": {
-    "ts": 1791571914.2489824,
-    "keyword": "MIT"
-  },
-  "a58181db4351e7b10e0a0797": {
-    "ts": 1791571999.046055,
-    "keyword": "Conectividad"
-  },
-  "a9352661d3b8b953516eefbe": {
-    "ts": 1791572000.7046733,
-    "keyword": "Conectividad"
-  },
-  "056d33201671b257e5490b64": {
-    "ts": 1791572002.2970808,
-    "keyword": "Conectividad"
-  },
-  "757ea725148f76156017b9ed": {
-    "ts": 1791572003.9634078,
-    "keyword": "Conectividad"
-  },
-  "dcd09df67fec068199a5a3f2": {
-    "ts": 1791572005.6298347,
-    "keyword": "Conectividad"
-  },
-  "c604c620e36a1ff15153c06a": {
-    "ts": 1791572029.1308098,
-    "keyword": "Internet"
-  },
-  "4655c5aaa34e3d533907c9c7": {
-    "ts": 1791572030.7235281,
-    "keyword": "Internet"
-  },
-  "46009ffee9b8f620f03538fd": {
-    "ts": 1791572032.3651145,
-    "keyword": "Internet"
-  },
-  "8c1eae04afb0a6a31aa65115": {
-    "ts": 1791572034.0214834,
-    "keyword": "Internet"
-  },
-  "5647a012317660f5599f1ef6": {
-    "ts": 1791572035.676748,
-    "keyword": "Internet"
-  },
-  "ab3470b623f50368012a96a4": {
-    "ts": 1791572048.850171,
-    "keyword": "Vivienda"
-  },
-  "650f1cd984a945b1ad699263": {
-    "ts": 1791572050.4374676,
-    "keyword": "Vivienda"
-  },
-  "6593191df3615f9722fb13d9": {
-    "ts": 1791572052.0856025,
-    "keyword": "Vivienda"
-  },
-  "6676502c60640cf79a7b2ea2": {
-    "ts": 1791572053.7354248,
-    "keyword": "Vivienda"
-  },
-  "054cffcc5c3f660cad4bd52d": {
-    "ts": 1791572055.3907146,
-    "keyword": "Vivienda"
-  },
   "d5dba2504e6479e5a1ffcc6f": {
     "ts": 1791572088.9493353,
     "keyword": "CNT"
@@ -2525,6 +2457,10 @@
   },
   "a075f5eaa5129b002a419885": {
     "ts": 1792171443.3419113,
+    "keyword": "CTE"
+  },
+  "01cdeda2b460e9c280d9aada": {
+    "ts": 1792176799.385017,
     "keyword": "CTE"
   }
 }
