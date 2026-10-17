@@ -1,68 +1,4 @@
 {
-  "1d5d0c09427e3342dd5709d9": {
-    "ts": 1791599247.1159666,
-    "keyword": "Conectividad"
-  },
-  "597f32dfb8860197732232e6": {
-    "ts": 1791599258.2000296,
-    "keyword": "Brecha digital"
-  },
-  "854c76f314dd762f9c67309d": {
-    "ts": 1791599269.3567414,
-    "keyword": "Internet"
-  },
-  "e656f82c9a2a0841ef31ee52": {
-    "ts": 1791599270.9605768,
-    "keyword": "Internet"
-  },
-  "5987e88b34f12b991a55bedd": {
-    "ts": 1791599281.8855145,
-    "keyword": "Vivienda"
-  },
-  "51e76d4c3b216b732c550f95": {
-    "ts": 1791599283.4881332,
-    "keyword": "Vivienda"
-  },
-  "a8a4813cb690c05e57cbddd1": {
-    "ts": 1791599285.1129262,
-    "keyword": "Vivienda"
-  },
-  "b7aa1f43dc175a57ab47d5b8": {
-    "ts": 1791599286.9499345,
-    "keyword": "Vivienda"
-  },
-  "5217608c802e613f34887d48": {
-    "ts": 1791599301.6125524,
-    "keyword": "Carreteras"
-  },
-  "61d2522580dd9a475ab7b88d": {
-    "ts": 1791599331.0578945,
-    "keyword": "Registro Civil"
-  },
-  "445a85f6c3dcb6035e72c092": {
-    "ts": 1791599332.735204,
-    "keyword": "Registro Civil"
-  },
-  "b926f3c12a9ffdc489b23899": {
-    "ts": 1791599334.3624265,
-    "keyword": "Registro Civil"
-  },
-  "d001359f17c0da2407f079e0": {
-    "ts": 1791599335.9658117,
-    "keyword": "Registro Civil"
-  },
-  "e9d123d7e3fc73a8b4acc2ba": {
-    "ts": 1791599337.5670094,
-    "keyword": "Registro Civil"
-  },
-  "4d4bcb54016cc0430c901164": {
-    "ts": 1791599363.3468502,
-    "keyword": "Postal"
-  },
-  "54e4550841feaca933e9ffae": {
-    "ts": 1791599364.95567,
-    "keyword": "Postal"
-  },
   "93ff8aa54dab3d8b6d2d66b9": {
     "ts": 1791622582.2027028,
     "keyword": "Conectividad"
@@ -2338,5 +2274,25 @@
   "11d20a41c7eb5241f5037337": {
     "ts": 1792186609.160161,
     "keyword": "Vía"
+  },
+  "274b5f372b65d8f7f229db5f": {
+    "ts": 1792210559.375774,
+    "keyword": "PROGEN"
+  },
+  "42508542ef6228e8cc283639": {
+    "ts": 1792210938.6049829,
+    "keyword": "Postal"
+  },
+  "73c1984f4031f38f048a5296": {
+    "ts": 1792210960.0124156,
+    "keyword": "ANT"
+  },
+  "a0b03b87bacad6d374909d02": {
+    "ts": 1792210971.4697068,
+    "keyword": "CTE"
+  },
+  "067ac6db9bb8e478cb6b9903": {
+    "ts": 1792210972.963805,
+    "keyword": "CTE"
   }
 }
