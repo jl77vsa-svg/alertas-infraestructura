@@ -1,44 +1,4 @@
 {
-  "e040be7ae7a78280f6f8de7b": {
-    "ts": 1791730350.3071494,
-    "keyword": "MIT"
-  },
-  "f82917019894e27e25585955": {
-    "ts": 1791730454.9286935,
-    "keyword": "Brecha digital"
-  },
-  "944e40a5209060c7a7c013ad": {
-    "ts": 1791730477.1538594,
-    "keyword": "Internet"
-  },
-  "391ae2beab6799504229e4e6": {
-    "ts": 1791730478.5877259,
-    "keyword": "Internet"
-  },
-  "581e280ce250bb3a6143514d": {
-    "ts": 1791730480.0253568,
-    "keyword": "Internet"
-  },
-  "6c5a920d882e5970cdee9201": {
-    "ts": 1791730481.4610262,
-    "keyword": "Internet"
-  },
-  "084d974b625bb16ca2137745": {
-    "ts": 1791730482.9106615,
-    "keyword": "Internet"
-  },
-  "7618a82b1d7eba1f44622f54": {
-    "ts": 1791730506.2760797,
-    "keyword": "Carreteras"
-  },
-  "08b8df3a4e79efbaeb8d2d31": {
-    "ts": 1791730531.1546981,
-    "keyword": "CNT"
-  },
-  "34267f32a468a087ad36e585": {
-    "ts": 1791730543.8527083,
-    "keyword": "Registro Civil"
-  },
   "25a1c4d4d9950a8285029280": {
     "ts": 1791746901.0908358,
     "keyword": "MIT"
@@ -2042,5 +2002,13 @@
   "9fcb6afbccd35730a1b35d86": {
     "ts": 1792302828.3556247,
     "keyword": "ANT"
+  },
+  "249b8526db43cd111694c51c": {
+    "ts": 1792343833.427501,
+    "keyword": "PROGEN"
+  },
+  "377d6ecbdee0aded6de69a15": {
+    "ts": 1792343923.5256598,
+    "keyword": "Vía"
   }
 }
