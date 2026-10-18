@@ -1,40 +1,4 @@
 {
-  "bfff0618329873fc7dfbc339": {
-    "ts": 1791683300.1196134,
-    "keyword": "MIT"
-  },
-  "a091fc61b40e79d783123895": {
-    "ts": 1791683301.6809118,
-    "keyword": "MIT"
-  },
-  "540a6721a5b722faca3dc86e": {
-    "ts": 1791683384.2100346,
-    "keyword": "Conectividad"
-  },
-  "458fdb6d871464771508f458": {
-    "ts": 1791683396.9146352,
-    "keyword": "Brecha digital"
-  },
-  "adb90cf7cab05f28fe877efd": {
-    "ts": 1791683410.4015384,
-    "keyword": "Internet"
-  },
-  "0793f538f669763cee20a81d": {
-    "ts": 1791683423.8529403,
-    "keyword": "Vivienda"
-  },
-  "ddf21275994b897846b26562": {
-    "ts": 1791683425.4049666,
-    "keyword": "Vivienda"
-  },
-  "6b6cc94655247c4662467248": {
-    "ts": 1791683426.9729888,
-    "keyword": "Vivienda"
-  },
-  "6ef2c2f9564182e1181e01e2": {
-    "ts": 1791683475.3027835,
-    "keyword": "Registro Civil"
-  },
   "98f96824d57b185f14f2ebe4": {
     "ts": 1791705521.4728384,
     "keyword": "Brecha digital"
@@ -2082,5 +2046,13 @@
   "0e9d5877f1b87eebd6a440b4": {
     "ts": 1792240163.477002,
     "keyword": "PROGEN"
+  },
+  "3c7a205ccc083b7b77a21663": {
+    "ts": 1792302826.8705425,
+    "keyword": "ANT"
+  },
+  "9fcb6afbccd35730a1b35d86": {
+    "ts": 1792302828.3556247,
+    "keyword": "ANT"
   }
 }
