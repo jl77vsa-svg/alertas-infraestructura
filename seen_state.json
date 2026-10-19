@@ -1,84 +1,4 @@
 {
-  "5caf1d6578edad91fdfbdc26": {
-    "ts": 1791798147.1651156,
-    "keyword": "MIT"
-  },
-  "0ec042d8010eaad96c972fa6": {
-    "ts": 1791798148.6527321,
-    "keyword": "MIT"
-  },
-  "fdb9b1df0c6d1eb9b15c3fd4": {
-    "ts": 1791798222.0286603,
-    "keyword": "Conectividad"
-  },
-  "bb4f996b3b0936872a67b5b3": {
-    "ts": 1791798223.5567033,
-    "keyword": "Conectividad"
-  },
-  "3de82437ea679473a796acc4": {
-    "ts": 1791798225.0342426,
-    "keyword": "Conectividad"
-  },
-  "1c0bc4ff750dd92ca6bb8484": {
-    "ts": 1791798226.5279992,
-    "keyword": "Conectividad"
-  },
-  "2866a63765f3c1765417a7a8": {
-    "ts": 1791798228.014546,
-    "keyword": "Conectividad"
-  },
-  "e2735b713d8185cec961c1f2": {
-    "ts": 1791798248.6954806,
-    "keyword": "Internet"
-  },
-  "5a3978ff5b2650b638fb187a": {
-    "ts": 1791798250.1850173,
-    "keyword": "Internet"
-  },
-  "fdadf0351256cf9194970883": {
-    "ts": 1791798251.8182402,
-    "keyword": "Internet"
-  },
-  "01498e696f031e3380c75764": {
-    "ts": 1791798253.2995331,
-    "keyword": "Internet"
-  },
-  "2e0b2d8b1f0df9a5d7ea104c": {
-    "ts": 1791798254.7873602,
-    "keyword": "Internet"
-  },
-  "d5856e00473fe859f30d66e8": {
-    "ts": 1791798256.2911496,
-    "keyword": "Internet"
-  },
-  "d085f50492ea00d39081510d": {
-    "ts": 1791798257.768402,
-    "keyword": "Internet"
-  },
-  "ab54d58d78315b951f5c5e2a": {
-    "ts": 1791798269.115846,
-    "keyword": "Vivienda"
-  },
-  "edd4b9e3ea1b15c6faeb45cf": {
-    "ts": 1791798270.6026518,
-    "keyword": "Vivienda"
-  },
-  "0048d700d44b8711d237c765": {
-    "ts": 1791798272.1033804,
-    "keyword": "Vivienda"
-  },
-  "d2ba0ab37f5f69ad1c498ed0": {
-    "ts": 1791798282.8577077,
-    "keyword": "Carreteras"
-  },
-  "39107ec73f7146d6abe2ad93": {
-    "ts": 1791798284.3639045,
-    "keyword": "Carreteras"
-  },
-  "f2f8977f4cb4752958a5aaf7": {
-    "ts": 1791798318.6569424,
-    "keyword": "Registro Civil"
-  },
   "3136f2a2498eb2246d900e9e": {
     "ts": 1791833038.0307329,
     "keyword": "MIT"
@@ -1862,5 +1782,13 @@
   "7f90a9cd896ba5239ab858ac": {
     "ts": 1792352277.7475193,
     "keyword": "ANT"
+  },
+  "1636650d4ffa8b6644e42447": {
+    "ts": 1792406687.3379474,
+    "keyword": "Taxis"
+  },
+  "c78c42c43896b1c13b8ab885": {
+    "ts": 1792406918.3346984,
+    "keyword": "Registro Civil"
   }
 }
