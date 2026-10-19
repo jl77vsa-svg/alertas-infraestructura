@@ -1,112 +1,4 @@
 {
-  "3136f2a2498eb2246d900e9e": {
-    "ts": 1791833038.0307329,
-    "keyword": "MIT"
-  },
-  "266bad77fc330a36971839c1": {
-    "ts": 1791833039.5103254,
-    "keyword": "MIT"
-  },
-  "e30698748611100c07905612": {
-    "ts": 1791833040.989522,
-    "keyword": "MIT"
-  },
-  "fa13afbeb6f2f9ad0d3be86e": {
-    "ts": 1791833042.5518367,
-    "keyword": "MIT"
-  },
-  "10dec22f11037680a0037ae0": {
-    "ts": 1791833044.0427232,
-    "keyword": "MIT"
-  },
-  "66e90b2339aa178d5294eb51": {
-    "ts": 1791833131.9341583,
-    "keyword": "Conectividad"
-  },
-  "330f085c8747f63ac0604ad0": {
-    "ts": 1791833133.4171062,
-    "keyword": "Conectividad"
-  },
-  "91b89ef07fd90685b98bb5ab": {
-    "ts": 1791833134.919195,
-    "keyword": "Conectividad"
-  },
-  "fe63a345b5738c9f29306b56": {
-    "ts": 1791833136.401997,
-    "keyword": "Conectividad"
-  },
-  "9c9e1d0aa74fca0386456ddf": {
-    "ts": 1791833137.9000525,
-    "keyword": "Conectividad"
-  },
-  "5a367592f8bbec44458bb529": {
-    "ts": 1791833139.395536,
-    "keyword": "Conectividad"
-  },
-  "b353ccafb9bf5cd5c9d3cee0": {
-    "ts": 1791833140.8922977,
-    "keyword": "Conectividad"
-  },
-  "86c01aeae74b90bb45047b1e": {
-    "ts": 1791833142.4317954,
-    "keyword": "Conectividad"
-  },
-  "875998a99192eaa480d66ffd": {
-    "ts": 1791833155.4263358,
-    "keyword": "Brecha digital"
-  },
-  "fbb104eff861726aa3e5c5a5": {
-    "ts": 1791833156.9098723,
-    "keyword": "Brecha digital"
-  },
-  "5408f795c0f62e9521c50b56": {
-    "ts": 1791833172.7385395,
-    "keyword": "Internet"
-  },
-  "7712c33dbfa4a08500b30ed9": {
-    "ts": 1791833174.2319856,
-    "keyword": "Internet"
-  },
-  "15c6fddd0a2c4274c488a134": {
-    "ts": 1791833175.7172625,
-    "keyword": "Internet"
-  },
-  "17d6ec9cb92fa2f5390c3078": {
-    "ts": 1791833177.246209,
-    "keyword": "Internet"
-  },
-  "77452a5e25308e8550bfae29": {
-    "ts": 1791833191.2421005,
-    "keyword": "Vivienda"
-  },
-  "54ae7fab149f25f2e96c6b92": {
-    "ts": 1791833192.7795296,
-    "keyword": "Vivienda"
-  },
-  "7953696d5209b282f7e1c0ac": {
-    "ts": 1791833194.2603478,
-    "keyword": "Vivienda"
-  },
-  "fca5ef3dfbe79008549d3f46": {
-    "ts": 1791833195.763573,
-    "keyword": "Vivienda"
-  },
-  "dc2898b57283d203b776be1c": {
-    "ts": 1791833208.0043254,
-    "keyword": "Carreteras"
-  },
-  "9b6fe2979062bd230f49ab7f": {
-    "ts": 1791833209.4965067,
-    "keyword": "Carreteras"
-  },
-  "595f3fa4058a98671679d271": {
-    "ts": 1791833247.028944,
-    "keyword": "Registro Civil"
-  },
-  "f50a71b6e1e6709b7f68d024": {
-    "ts": 1791833272.532303,
-    "keyword": "Postal"
-  },
   "5087b4eab6c285edca130ba5": {
     "ts": 1791855360.10455,
     "keyword": "MIT"
@@ -1794,5 +1686,17 @@
   "5e00a5c4c1d6a1d140b615cf": {
     "ts": 1792430173.217617,
     "keyword": "Fenómeno del Niño"
+  },
+  "2ba53b17710a0ce71c920d85": {
+    "ts": 1792445883.6845918,
+    "keyword": "Vía"
+  },
+  "86ced58bf11679bfa561f435": {
+    "ts": 1792446084.7134888,
+    "keyword": "Brecha digital"
+  },
+  "1bc6ca739f8b0e5877dd4f55": {
+    "ts": 1792446131.729523,
+    "keyword": "CNT"
   }
 }
