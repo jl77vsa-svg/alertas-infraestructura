@@ -1,84 +1,4 @@
 {
-  "5087b4eab6c285edca130ba5": {
-    "ts": 1791855360.10455,
-    "keyword": "MIT"
-  },
-  "c6a20276fa1e58d90c98acb5": {
-    "ts": 1791855361.6403253,
-    "keyword": "MIT"
-  },
-  "3366e0467d1e341c76eda061": {
-    "ts": 1791855363.1873462,
-    "keyword": "MIT"
-  },
-  "5fa2965b6a31bd4b4283386d": {
-    "ts": 1791855441.4541714,
-    "keyword": "Conectividad"
-  },
-  "0af9ae422474bbb5fbf28584": {
-    "ts": 1791855442.987519,
-    "keyword": "Conectividad"
-  },
-  "8607bfd1fc220fdab48b283c": {
-    "ts": 1791855444.5152373,
-    "keyword": "Conectividad"
-  },
-  "91095c7774c8af1f50912c5f": {
-    "ts": 1791855466.6693168,
-    "keyword": "Internet"
-  },
-  "e59c59aab6c1377ea3696da9": {
-    "ts": 1791855468.3106468,
-    "keyword": "Internet"
-  },
-  "626c5e67ce594d6b9246ed50": {
-    "ts": 1791855469.8476343,
-    "keyword": "Internet"
-  },
-  "fb793a02534c2dd82c5f3541": {
-    "ts": 1791855471.3806076,
-    "keyword": "Internet"
-  },
-  "ed8343742e4c0b90335e736f": {
-    "ts": 1791855493.0082598,
-    "keyword": "Vivienda"
-  },
-  "401b43534095820f2354db68": {
-    "ts": 1791855494.548119,
-    "keyword": "Vivienda"
-  },
-  "6df0ef0b44e004340812bd36": {
-    "ts": 1791855496.0738652,
-    "keyword": "Vivienda"
-  },
-  "ccc543506925362478d9689b": {
-    "ts": 1791855497.6019666,
-    "keyword": "Vivienda"
-  },
-  "25e670fd1422734cb0c147df": {
-    "ts": 1791855499.1366558,
-    "keyword": "Vivienda"
-  },
-  "0e7459ffcb17970a91c09745": {
-    "ts": 1791855511.8574994,
-    "keyword": "Carreteras"
-  },
-  "03eae1d1b65dc9062cce015d": {
-    "ts": 1791855513.3936715,
-    "keyword": "Carreteras"
-  },
-  "dcc1447d20f64c6dbb1cbbae": {
-    "ts": 1791855514.9450345,
-    "keyword": "Carreteras"
-  },
-  "96b10d65fb62f4d643667fc0": {
-    "ts": 1791855548.5387452,
-    "keyword": "Registro Civil"
-  },
-  "1a263a8b2ede71fb1ff2147a": {
-    "ts": 1791855550.069176,
-    "keyword": "Registro Civil"
-  },
   "12395f3bed9d02c839b13803": {
     "ts": 1791880344.2329543,
     "keyword": "MIT"
@@ -1702,5 +1622,13 @@
   "a5c8000f7aea06ea1b1a7175": {
     "ts": 1792457218.5577993,
     "keyword": "Dragado"
+  },
+  "df8fb1e3ca28a9417cb5ecfb": {
+    "ts": 1792474265.8584967,
+    "keyword": "Brecha digital"
+  },
+  "13a82feb2a0538b5e3c9daf9": {
+    "ts": 1792474302.0063848,
+    "keyword": "Celulares"
   }
 }
