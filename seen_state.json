@@ -1,80 +1,4 @@
 {
-  "4e1c9d2c5010b476fc020e1a": {
-    "ts": 1792063154.453453,
-    "keyword": "MIT"
-  },
-  "30ef493c4fdc80554053cfe4": {
-    "ts": 1792063156.1152923,
-    "keyword": "MIT"
-  },
-  "db9e75651398c5be785ed6ed": {
-    "ts": 1792063252.4523978,
-    "keyword": "Conectividad"
-  },
-  "e73f5ab4c392b4ff6468cb32": {
-    "ts": 1792063254.0586429,
-    "keyword": "Conectividad"
-  },
-  "cc5a8a36c4c13427c162264c": {
-    "ts": 1792063255.7050056,
-    "keyword": "Conectividad"
-  },
-  "20dad374ac04af51deed44e4": {
-    "ts": 1792063257.376337,
-    "keyword": "Conectividad"
-  },
-  "7851a5c16a9a5162d1d5460b": {
-    "ts": 1792063270.0641325,
-    "keyword": "Brecha digital"
-  },
-  "aea49985bfaae0dbd6576f26": {
-    "ts": 1792063282.9992077,
-    "keyword": "Internet"
-  },
-  "2942b54074b76eec291671a9": {
-    "ts": 1792063284.59714,
-    "keyword": "Internet"
-  },
-  "bcd5000274cedf87071d0591": {
-    "ts": 1792063286.2974708,
-    "keyword": "Internet"
-  },
-  "b7d9c3063f52cb613b9c72c3": {
-    "ts": 1792063287.960259,
-    "keyword": "Internet"
-  },
-  "f1e5b6d369e5137ab16730c5": {
-    "ts": 1792063301.7973125,
-    "keyword": "Vivienda"
-  },
-  "21011d7f9a5dc74b23f8c66c": {
-    "ts": 1792063303.4016824,
-    "keyword": "Vivienda"
-  },
-  "2a5cb5708f4589910a9aa8f6": {
-    "ts": 1792063305.060853,
-    "keyword": "Vivienda"
-  },
-  "1b17b96d8afc7861297214c1": {
-    "ts": 1792063306.732919,
-    "keyword": "Vivienda"
-  },
-  "de4876ce9e786f070e61e829": {
-    "ts": 1792063339.7100496,
-    "keyword": "Carreteras"
-  },
-  "f499064451c25f0ab09d8cdb": {
-    "ts": 1792063362.246527,
-    "keyword": "CNT"
-  },
-  "b79971822f04182375ff8e7c": {
-    "ts": 1792063363.8397727,
-    "keyword": "CNT"
-  },
-  "64d5c2bf5f2d2c3c21dd2858": {
-    "ts": 1792063396.8560212,
-    "keyword": "Postal"
-  },
   "c7cc619eff8f308eaa55353c": {
     "ts": 1792078962.2774897,
     "keyword": "MIT"
@@ -810,5 +734,9 @@
   "65179951515f8535fe05387d": {
     "ts": 1792651470.3615596,
     "keyword": "Cierre vial"
+  },
+  "22c0ce09b6dbeedb19c4c544": {
+    "ts": 1792672588.922526,
+    "keyword": "Buses"
   }
 }
