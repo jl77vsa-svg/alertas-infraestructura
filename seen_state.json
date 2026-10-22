@@ -1,56 +1,4 @@
 {
-  "da62b0b0fa6ad7c38fa9faaa": {
-    "ts": 1792043371.1328979,
-    "keyword": "MIT"
-  },
-  "67b8f78ee74244ca81c903d1": {
-    "ts": 1792043468.9157186,
-    "keyword": "Conectividad"
-  },
-  "4d715a2f9ef4bb8ac04de22b": {
-    "ts": 1792043470.4819994,
-    "keyword": "Conectividad"
-  },
-  "6e7ee7734593763bd0b8018c": {
-    "ts": 1792043494.6226323,
-    "keyword": "Internet"
-  },
-  "aa6c083f6edd79aff5a2a95a": {
-    "ts": 1792043496.1829505,
-    "keyword": "Internet"
-  },
-  "699f3eece626e2521f312281": {
-    "ts": 1792043497.7521362,
-    "keyword": "Internet"
-  },
-  "65410603a54e4678f6d99aa3": {
-    "ts": 1792043509.1953244,
-    "keyword": "Vivienda"
-  },
-  "ab0c87aa6d2827c7ff0046d3": {
-    "ts": 1792043510.752945,
-    "keyword": "Vivienda"
-  },
-  "be824a9b56a31cf6ccd561d4": {
-    "ts": 1792043557.7077768,
-    "keyword": "Registro Civil"
-  },
-  "e48f770c3c4ee43e6ea64096": {
-    "ts": 1792043559.297917,
-    "keyword": "Registro Civil"
-  },
-  "570a89399381e72c0949947d": {
-    "ts": 1792043560.9178462,
-    "keyword": "Registro Civil"
-  },
-  "4a3453c85e4e12648799f789": {
-    "ts": 1792043562.4867387,
-    "keyword": "Registro Civil"
-  },
-  "742fa1a29541e7298c1937b1": {
-    "ts": 1792043585.6353772,
-    "keyword": "Postal"
-  },
   "4e1c9d2c5010b476fc020e1a": {
     "ts": 1792063154.453453,
     "keyword": "MIT"
@@ -857,6 +805,10 @@
   },
   "40ae50480e8405a6f8108e3d": {
     "ts": 1792633820.6159256,
+    "keyword": "Cierre vial"
+  },
+  "65179951515f8535fe05387d": {
+    "ts": 1792651470.3615596,
     "keyword": "Cierre vial"
   }
 }
