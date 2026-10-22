@@ -1,56 +1,4 @@
 {
-  "16ef9e0c69ce890de240229a": {
-    "ts": 1792025908.3583136,
-    "keyword": "MIT"
-  },
-  "bc8dc1e94467416f05b02743": {
-    "ts": 1792025977.367581,
-    "keyword": "Conectividad"
-  },
-  "d7debc972e22876323af023e": {
-    "ts": 1792025978.826377,
-    "keyword": "Conectividad"
-  },
-  "2acbec9b498483efdfc8b526": {
-    "ts": 1792026005.7158089,
-    "keyword": "Internet"
-  },
-  "633c02a30c6538e8091cb53f": {
-    "ts": 1792026007.1636157,
-    "keyword": "Internet"
-  },
-  "ee0045e9d6bb6fd27d2788da": {
-    "ts": 1792026038.740343,
-    "keyword": "Vivienda"
-  },
-  "9ce9833c535b27bc903d6c29": {
-    "ts": 1792026040.1842587,
-    "keyword": "Vivienda"
-  },
-  "3d26bc5a66ce38fe33f2c629": {
-    "ts": 1792026065.846204,
-    "keyword": "Carreteras"
-  },
-  "9711c4b3259486162a8c4c3e": {
-    "ts": 1792026119.3560781,
-    "keyword": "Registro Civil"
-  },
-  "bcecb25d62d24bd7cea7bdde": {
-    "ts": 1792026120.8534303,
-    "keyword": "Registro Civil"
-  },
-  "dc686aa7008607180025ac6e": {
-    "ts": 1792026122.2862742,
-    "keyword": "Registro Civil"
-  },
-  "493cfd2f3513e72ef2f3193c": {
-    "ts": 1792026123.7310665,
-    "keyword": "Registro Civil"
-  },
-  "27f896d4423b2dbae5f2ae02": {
-    "ts": 1792026153.4802358,
-    "keyword": "Postal"
-  },
   "da62b0b0fa6ad7c38fa9faaa": {
     "ts": 1792043371.1328979,
     "keyword": "MIT"
@@ -898,5 +846,17 @@
   "8245288179e438f666e71233": {
     "ts": 1792614171.1467404,
     "keyword": "Roberto Luque"
+  },
+  "18e4d9bf29017ddf63b1c63d": {
+    "ts": 1792633751.6493542,
+    "keyword": "Vía"
+  },
+  "3d2922ec06278ef1e3af0c7c": {
+    "ts": 1792633753.0657942,
+    "keyword": "Vía"
+  },
+  "40ae50480e8405a6f8108e3d": {
+    "ts": 1792633820.6159256,
+    "keyword": "Cierre vial"
   }
 }
