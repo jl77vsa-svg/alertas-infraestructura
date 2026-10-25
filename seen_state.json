@@ -1,12 +1,4 @@
 {
-  "3c7a205ccc083b7b77a21663": {
-    "ts": 1792302826.8705425,
-    "keyword": "ANT"
-  },
-  "9fcb6afbccd35730a1b35d86": {
-    "ts": 1792302828.3556247,
-    "keyword": "ANT"
-  },
   "249b8526db43cd111694c51c": {
     "ts": 1792343833.427501,
     "keyword": "PROGEN"
@@ -214,5 +206,9 @@
   "7aa4430266c4f14e3cc9de49": {
     "ts": 1792878765.8224273,
     "keyword": "Quinto Puente"
+  },
+  "14e511bed34d5f26bce8f721": {
+    "ts": 1792921900.0675871,
+    "keyword": "Celulares"
   }
 }
