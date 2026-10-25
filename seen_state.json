@@ -1,12 +1,4 @@
 {
-  "249b8526db43cd111694c51c": {
-    "ts": 1792343833.427501,
-    "keyword": "PROGEN"
-  },
-  "377d6ecbdee0aded6de69a15": {
-    "ts": 1792343923.5256598,
-    "keyword": "Vía"
-  },
   "7f90a9cd896ba5239ab858ac": {
     "ts": 1792352277.7475193,
     "keyword": "ANT"
@@ -210,5 +202,9 @@
   "14e511bed34d5f26bce8f721": {
     "ts": 1792921900.0675871,
     "keyword": "Celulares"
+  },
+  "ee6a4f18b5941f7d248bdbc4": {
+    "ts": 1792950101.173401,
+    "keyword": "Aviones"
   }
 }
