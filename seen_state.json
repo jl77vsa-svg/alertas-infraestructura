@@ -1,12 +1,4 @@
 {
-  "1636650d4ffa8b6644e42447": {
-    "ts": 1792406687.3379474,
-    "keyword": "Taxis"
-  },
-  "c78c42c43896b1c13b8ab885": {
-    "ts": 1792406918.3346984,
-    "keyword": "Registro Civil"
-  },
   "5e00a5c4c1d6a1d140b615cf": {
     "ts": 1792430173.217617,
     "keyword": "Fenómeno del Niño"
@@ -218,5 +210,9 @@
   "e76c5bfa23f9634d17590c04": {
     "ts": 1792992488.3905237,
     "keyword": "PROGEN"
+  },
+  "cee4563c318e46a169bfc563": {
+    "ts": 1793014588.9243753,
+    "keyword": "Celulares"
   }
 }
