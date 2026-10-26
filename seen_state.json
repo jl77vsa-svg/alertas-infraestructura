@@ -1,8 +1,4 @@
 {
-  "5e00a5c4c1d6a1d140b615cf": {
-    "ts": 1792430173.217617,
-    "keyword": "Fenómeno del Niño"
-  },
   "2ba53b17710a0ce71c920d85": {
     "ts": 1792445883.6845918,
     "keyword": "Vía"
@@ -214,5 +210,9 @@
   "cee4563c318e46a169bfc563": {
     "ts": 1793014588.9243753,
     "keyword": "Celulares"
+  },
+  "835d6406ee1ab309fd0cf577": {
+    "ts": 1793036369.7907615,
+    "keyword": "Quinto Puente"
   }
 }
