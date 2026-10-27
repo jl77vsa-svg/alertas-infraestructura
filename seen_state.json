@@ -1,12 +1,4 @@
 {
-  "df8fb1e3ca28a9417cb5ecfb": {
-    "ts": 1792474265.8584967,
-    "keyword": "Brecha digital"
-  },
-  "13a82feb2a0538b5e3c9daf9": {
-    "ts": 1792474302.0063848,
-    "keyword": "Celulares"
-  },
   "104b9031de93f39f88257a9c": {
     "ts": 1792510106.9801295,
     "keyword": "ANT"
@@ -218,5 +210,9 @@
   "98b49318f0b624dd58e79b7c": {
     "ts": 1793064496.4015918,
     "keyword": "Fenómeno del Niño"
+  },
+  "db2c44898fa69b7cf8a38d65": {
+    "ts": 1793083892.7393587,
+    "keyword": "Buses"
   }
 }
