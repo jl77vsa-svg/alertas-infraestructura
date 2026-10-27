@@ -1,8 +1,4 @@
 {
-  "a5c8000f7aea06ea1b1a7175": {
-    "ts": 1792457218.5577993,
-    "keyword": "Dragado"
-  },
   "df8fb1e3ca28a9417cb5ecfb": {
     "ts": 1792474265.8584967,
     "keyword": "Brecha digital"
@@ -210,5 +206,17 @@
   "61dc2676fd37eb8d7e279b76": {
     "ts": 1793052177.2542439,
     "keyword": "Postal"
+  },
+  "23c75066b1d90b97bc761518": {
+    "ts": 1793064355.5598857,
+    "keyword": "PROGEN"
+  },
+  "6de505033cc8daef9203ab08": {
+    "ts": 1793064485.7287753,
+    "keyword": "Cierre vial"
+  },
+  "98b49318f0b624dd58e79b7c": {
+    "ts": 1793064496.4015918,
+    "keyword": "Fenómeno del Niño"
   }
 }
