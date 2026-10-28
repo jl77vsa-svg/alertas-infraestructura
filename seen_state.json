@@ -1,24 +1,4 @@
 {
-  "93cac675d598dde8502f49a9": {
-    "ts": 1792599116.281936,
-    "keyword": "Cierre vial"
-  },
-  "b64759fb2d818784279010f8": {
-    "ts": 1792613818.0384166,
-    "keyword": "Carreteras"
-  },
-  "45f4afd0cae19c44d2fbc238": {
-    "ts": 1792613922.4829214,
-    "keyword": "Buses"
-  },
-  "1f310233183e40b8b49c6857": {
-    "ts": 1792613923.9750867,
-    "keyword": "Buses"
-  },
-  "8245288179e438f666e71233": {
-    "ts": 1792614171.1467404,
-    "keyword": "Roberto Luque"
-  },
   "18e4d9bf29017ddf63b1c63d": {
     "ts": 1792633751.6493542,
     "keyword": "Vía"
@@ -206,5 +186,21 @@
   "1fa6d604bba184c7d9d1bae6": {
     "ts": 1793201121.0954506,
     "keyword": "Programa Yapa"
+  },
+  "4ff4106503bedc6ff4b76ed7": {
+    "ts": 1793219665.1986003,
+    "keyword": "Vía"
+  },
+  "c623bd3af26c32edbcb41b56": {
+    "ts": 1793219730.0870059,
+    "keyword": "Cierre vial"
+  },
+  "b4b417664294a749b18131db": {
+    "ts": 1793219731.4949596,
+    "keyword": "Cierre vial"
+  },
+  "30541abcb301e1986d8f360e": {
+    "ts": 1793219792.3910055,
+    "keyword": "Buses"
   }
 }
