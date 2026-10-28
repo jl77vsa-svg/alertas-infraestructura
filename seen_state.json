@@ -1,8 +1,4 @@
 {
-  "bca635121a2044e463e85cd0": {
-    "ts": 1792562605.1625526,
-    "keyword": "Infraestructura"
-  },
   "93cac675d598dde8502f49a9": {
     "ts": 1792599116.281936,
     "keyword": "Cierre vial"
@@ -198,5 +194,13 @@
   "1ce8eb833b3a9604c4deabaf": {
     "ts": 1793140945.9254124,
     "keyword": "Roberto Luque"
+  },
+  "506a141e683a9806eee8ab08": {
+    "ts": 1793175729.1596045,
+    "keyword": "Derrumbe"
+  },
+  "2b147d840709c8ce37fc42a4": {
+    "ts": 1793175802.9370887,
+    "keyword": "Taxis"
   }
 }
