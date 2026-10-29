@@ -1,8 +1,4 @@
 {
-  "25ac7cd07247c79cc4bbd0a6": {
-    "ts": 1792702416.5957072,
-    "keyword": "Vía"
-  },
   "9809c29a7541cf35e21c951a": {
     "ts": 1792713548.2424963,
     "keyword": "Vía"
@@ -198,5 +194,9 @@
   "48945b16114d0100060eafbc": {
     "ts": 1793301439.837498,
     "keyword": "Ministerio de Infraestructura"
+  },
+  "ba12c09a15a9936dd680975f": {
+    "ts": 1793316765.1365607,
+    "keyword": "CTE"
   }
 }
