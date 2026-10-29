@@ -1,8 +1,4 @@
 {
-  "34a43be2d4289d35948ab8be": {
-    "ts": 1792690738.5447636,
-    "keyword": "Vía"
-  },
   "25ac7cd07247c79cc4bbd0a6": {
     "ts": 1792702416.5957072,
     "keyword": "Vía"
@@ -198,5 +194,9 @@
   "08e5d6a3f344e1996c3d39eb": {
     "ts": 1793255191.5971203,
     "keyword": "Cierre vial"
+  },
+  "48945b16114d0100060eafbc": {
+    "ts": 1793301439.837498,
+    "keyword": "Ministerio de Infraestructura"
   }
 }
