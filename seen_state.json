@@ -1,12 +1,4 @@
 {
-  "e91bcadb450f4da36b7f48e5": {
-    "ts": 1792833198.5510457,
-    "keyword": "Vía"
-  },
-  "7c4e69f4d8a9e39b25856fa0": {
-    "ts": 1792833257.8853605,
-    "keyword": "Cierre vial"
-  },
   "5f7ab57dbc6928bc45058458": {
     "ts": 1792860932.7640512,
     "keyword": "Quinto Puente"
@@ -214,5 +206,9 @@
   "232000d1eb75656856ace02e": {
     "ts": 1793429898.4965065,
     "keyword": "Cierre vial"
+  },
+  "fcebe48eb566f9cadd5d6089": {
+    "ts": 1793454004.5779614,
+    "keyword": "Vivienda"
   }
 }
