@@ -1,28 +1,4 @@
 {
-  "fbcd22a0ec2cda4a803ac608": {
-    "ts": 1792792309.034626,
-    "keyword": "Postal"
-  },
-  "b52cc388cc8abe21a76a466e": {
-    "ts": 1792792335.2225778,
-    "keyword": "ANT"
-  },
-  "c0ad28334332c56559a92741": {
-    "ts": 1792800481.9765308,
-    "keyword": "Vía"
-  },
-  "2ad879f2b247f4e3131d2397": {
-    "ts": 1792800483.4663537,
-    "keyword": "Vía"
-  },
-  "af1a0e6686b3b4ad8755fc00": {
-    "ts": 1792800484.9571257,
-    "keyword": "Vía"
-  },
-  "47a33a29eb040a07c501a200": {
-    "ts": 1792800553.500484,
-    "keyword": "Cierre vial"
-  },
   "e91bcadb450f4da36b7f48e5": {
     "ts": 1792833198.5510457,
     "keyword": "Vía"
@@ -214,5 +190,25 @@
   "4465d893f863470a2e5731c9": {
     "ts": 1793394822.6296911,
     "keyword": "Casa"
+  },
+  "728dace52da9f7ddfc3251eb": {
+    "ts": 1793407948.7181625,
+    "keyword": "MIT"
+  },
+  "1e7c2db684c8787253de41a3": {
+    "ts": 1793407983.439422,
+    "keyword": "Puntos Digitales Gratuitos"
+  },
+  "a60f0d31a30968a43f3e3160": {
+    "ts": 1793408153.907394,
+    "keyword": "Cierre vial"
+  },
+  "304e03ff82d6733a8817996b": {
+    "ts": 1793408155.320106,
+    "keyword": "Cierre vial"
+  },
+  "d11a4c05e8813557d777a909": {
+    "ts": 1793408372.0781245,
+    "keyword": "Postal"
   }
 }
