@@ -1,8 +1,4 @@
 {
-  "752ac512d9cb8f4971f8c2b7": {
-    "ts": 1792975575.937891,
-    "keyword": "Cierre vial"
-  },
   "e76c5bfa23f9634d17590c04": {
     "ts": 1792992488.3905237,
     "keyword": "PROGEN"
@@ -194,5 +190,9 @@
   "3ce7e950e8f66d05df7de9e0": {
     "ts": 1793573278.5221982,
     "keyword": "Aeropuertos"
+  },
+  "b49ee72d790e2eec6096e824": {
+    "ts": 1793584697.764263,
+    "keyword": "Cierre vial"
   }
 }
