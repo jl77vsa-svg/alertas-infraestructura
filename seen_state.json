@@ -1,12 +1,4 @@
 {
-  "cee4563c318e46a169bfc563": {
-    "ts": 1793014588.9243753,
-    "keyword": "Celulares"
-  },
-  "835d6406ee1ab309fd0cf577": {
-    "ts": 1793036369.7907615,
-    "keyword": "Quinto Puente"
-  },
   "1d097e8cb411906636d95e9a": {
     "ts": 1793051813.8690526,
     "keyword": "PROGEN"
@@ -190,5 +182,13 @@
   "b49ee72d790e2eec6096e824": {
     "ts": 1793584697.764263,
     "keyword": "Cierre vial"
+  },
+  "a1e06ca8639f7cded7506d44": {
+    "ts": 1793649001.3017106,
+    "keyword": "Telecomunicaciones"
+  },
+  "2f17d3112a60a038e987e739": {
+    "ts": 1793649002.824766,
+    "keyword": "Telecomunicaciones"
   }
 }
