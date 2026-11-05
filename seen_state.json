@@ -1,12 +1,4 @@
 {
-  "1eb93e00e4bc80f1724a43cf": {
-    "ts": 1793254986.1751466,
-    "keyword": "MIT"
-  },
-  "08e5d6a3f344e1996c3d39eb": {
-    "ts": 1793255191.5971203,
-    "keyword": "Cierre vial"
-  },
   "48945b16114d0100060eafbc": {
     "ts": 1793301439.837498,
     "keyword": "Ministerio de Infraestructura"
@@ -166,5 +158,13 @@
   "f0b63c3fb55f8f42d08360b7": {
     "ts": 1793850701.5299408,
     "keyword": "Aviones"
+  },
+  "00528d39c7e265387dca42c6": {
+    "ts": 1793878954.7258728,
+    "keyword": "Cierre vial"
+  },
+  "1cc01a41c1fbfb2bedfa555d": {
+    "ts": 1793878966.9476535,
+    "keyword": "Fenómeno del Niño"
   }
 }
