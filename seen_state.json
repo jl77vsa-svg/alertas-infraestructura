@@ -1,12 +1,4 @@
 {
-  "48945b16114d0100060eafbc": {
-    "ts": 1793301439.837498,
-    "keyword": "Ministerio de Infraestructura"
-  },
-  "ba12c09a15a9936dd680975f": {
-    "ts": 1793316765.1365607,
-    "keyword": "CTE"
-  },
   "9bcdfc343885e2fa87c2325b": {
     "ts": 1793328991.6724029,
     "keyword": "Taxis"
@@ -182,5 +174,13 @@
   "af12ff55cb6b161a8fe9fd57": {
     "ts": 1793905979.1211612,
     "keyword": "Roberto Luque"
+  },
+  "bd6972037f5f81237a7f1deb": {
+    "ts": 1793924888.8533907,
+    "keyword": "Derrumbe"
+  },
+  "9e580b951d94b6aa73b25ebe": {
+    "ts": 1793924890.5107033,
+    "keyword": "Derrumbe"
   }
 }
