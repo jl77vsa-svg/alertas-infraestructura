@@ -1,32 +1,4 @@
 {
-  "82b0e62728912b7429d937b3": {
-    "ts": 1793394771.5945694,
-    "keyword": "Buses"
-  },
-  "4465d893f863470a2e5731c9": {
-    "ts": 1793394822.6296911,
-    "keyword": "Casa"
-  },
-  "728dace52da9f7ddfc3251eb": {
-    "ts": 1793407948.7181625,
-    "keyword": "MIT"
-  },
-  "1e7c2db684c8787253de41a3": {
-    "ts": 1793407983.439422,
-    "keyword": "Puntos Digitales Gratuitos"
-  },
-  "a60f0d31a30968a43f3e3160": {
-    "ts": 1793408153.907394,
-    "keyword": "Cierre vial"
-  },
-  "304e03ff82d6733a8817996b": {
-    "ts": 1793408155.320106,
-    "keyword": "Cierre vial"
-  },
-  "d11a4c05e8813557d777a909": {
-    "ts": 1793408372.0781245,
-    "keyword": "Postal"
-  },
   "232000d1eb75656856ace02e": {
     "ts": 1793429898.4965065,
     "keyword": "Cierre vial"
@@ -154,5 +126,13 @@
   "9e580b951d94b6aa73b25ebe": {
     "ts": 1793924890.5107033,
     "keyword": "Derrumbe"
+  },
+  "b2934c72d0b769970f7ff422": {
+    "ts": 1794012745.3407907,
+    "keyword": "Ministerio de Infraestructura"
+  },
+  "78bc3127051675f8c9ed85fb": {
+    "ts": 1794012957.6252153,
+    "keyword": "Cierre vial"
   }
 }
