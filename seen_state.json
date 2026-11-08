@@ -1,8 +1,4 @@
 {
-  "3ce7e950e8f66d05df7de9e0": {
-    "ts": 1793573278.5221982,
-    "keyword": "Aeropuertos"
-  },
   "b49ee72d790e2eec6096e824": {
     "ts": 1793584697.764263,
     "keyword": "Cierre vial"
@@ -165,6 +161,10 @@
   },
   "15cbfd8a32af96a2b66efbd4": {
     "ts": 1794167864.3237364,
+    "keyword": "Vía"
+  },
+  "6cd42ae097d8a83c78688a62": {
+    "ts": 1794181236.0391676,
     "keyword": "Vía"
   }
 }
