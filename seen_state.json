@@ -1,8 +1,4 @@
 {
-  "e08dd71aa3eeda826a7cf147": {
-    "ts": 1793815186.1703327,
-    "keyword": "Derrumbe"
-  },
   "14468543e3b28aead37b91d4": {
     "ts": 1793835692.950411,
     "keyword": "Postal"
@@ -194,5 +190,13 @@
   "52e04ef96576f437f0b88a0e": {
     "ts": 1794357834.1341803,
     "keyword": "CTE"
+  },
+  "8e8b744fcf44ded723526e46": {
+    "ts": 1794435356.652256,
+    "keyword": "Vía"
+  },
+  "7e9b75b1af2fc06c4e3ad538": {
+    "ts": 1794435613.9701538,
+    "keyword": "Celulares"
   }
 }
