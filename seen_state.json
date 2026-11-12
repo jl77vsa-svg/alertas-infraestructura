@@ -1,16 +1,4 @@
 {
-  "14468543e3b28aead37b91d4": {
-    "ts": 1793835692.950411,
-    "keyword": "Postal"
-  },
-  "bc6bcbffd9dedf06ff64f5c5": {
-    "ts": 1793835729.8609493,
-    "keyword": "CTE"
-  },
-  "00f7ab02bc32d8e7b3161228": {
-    "ts": 1793835755.312824,
-    "keyword": "Roberto Luque"
-  },
   "f0b63c3fb55f8f42d08360b7": {
     "ts": 1793850701.5299408,
     "keyword": "Aviones"
@@ -198,5 +186,17 @@
   "7e9b75b1af2fc06c4e3ad538": {
     "ts": 1794435613.9701538,
     "keyword": "Celulares"
+  },
+  "93108b7643ce7f3e0194492f": {
+    "ts": 1794453043.0263844,
+    "keyword": "Vía"
+  },
+  "830872320a4457521f39073a": {
+    "ts": 1794453156.7279758,
+    "keyword": "Taxis"
+  },
+  "fad3c64cace8e58f49343851": {
+    "ts": 1794453381.1712177,
+    "keyword": "ANT"
   }
 }
