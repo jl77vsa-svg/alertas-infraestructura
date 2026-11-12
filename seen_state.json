@@ -1,28 +1,4 @@
 {
-  "00528d39c7e265387dca42c6": {
-    "ts": 1793878954.7258728,
-    "keyword": "Cierre vial"
-  },
-  "1cc01a41c1fbfb2bedfa555d": {
-    "ts": 1793878966.9476535,
-    "keyword": "Fenómeno del Niño"
-  },
-  "bf3105934a36ce9dbd19af29": {
-    "ts": 1793905591.310366,
-    "keyword": "Vía"
-  },
-  "7b8913ad7e8418cf16605fb7": {
-    "ts": 1793905592.828216,
-    "keyword": "Vía"
-  },
-  "47be41901e7189fe1d231a57": {
-    "ts": 1793905759.6082056,
-    "keyword": "Vivienda"
-  },
-  "af12ff55cb6b161a8fe9fd57": {
-    "ts": 1793905979.1211612,
-    "keyword": "Roberto Luque"
-  },
   "bd6972037f5f81237a7f1deb": {
     "ts": 1793924888.8533907,
     "keyword": "Derrumbe"
@@ -194,5 +170,13 @@
   "fad3c64cace8e58f49343851": {
     "ts": 1794453381.1712177,
     "keyword": "ANT"
+  },
+  "98c0561f48ed1c7a38c94ffe": {
+    "ts": 1794510776.806202,
+    "keyword": "Registro Civil"
+  },
+  "45b40af5632075861883b8e2": {
+    "ts": 1794510778.292812,
+    "keyword": "Registro Civil"
   }
 }
