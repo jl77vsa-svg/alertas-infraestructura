@@ -1,12 +1,4 @@
 {
-  "b2934c72d0b769970f7ff422": {
-    "ts": 1794012745.3407907,
-    "keyword": "Ministerio de Infraestructura"
-  },
-  "78bc3127051675f8c9ed85fb": {
-    "ts": 1794012957.6252153,
-    "keyword": "Cierre vial"
-  },
   "848d2300e58d1521682b7622": {
     "ts": 1794034967.327819,
     "keyword": "PROGEN"
@@ -197,6 +189,22 @@
   },
   "39e890e5f760cecb9592ba84": {
     "ts": 1794606559.4962301,
+    "keyword": "ANT"
+  },
+  "30d4b97d35f6ae9f232bec4d": {
+    "ts": 1794621309.38733,
+    "keyword": "Cierre vial"
+  },
+  "65a0b71195ef7689a70af5ab": {
+    "ts": 1794621443.2369032,
+    "keyword": "Telecomunicaciones"
+  },
+  "0f232f4b37fa11e3d1d3905a": {
+    "ts": 1794621555.092087,
+    "keyword": "ANT"
+  },
+  "bf3ca59d57c2852702120d9d": {
+    "ts": 1794621556.6964977,
     "keyword": "ANT"
   }
 }
