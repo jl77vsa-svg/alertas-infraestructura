@@ -1,8 +1,4 @@
 {
-  "071cc052b37d5fdc5bae2ba0": {
-    "ts": 1794125283.3661916,
-    "keyword": "Vía"
-  },
   "731a50f0cc77541890c17374": {
     "ts": 1794151475.891239,
     "keyword": "Vía"
@@ -210,5 +206,13 @@
   "4ba67ac7a350d9ef94f95e18": {
     "ts": 1794700968.6631653,
     "keyword": "Cierre vial"
+  },
+  "2d30f9b9c4d630cf8c580dbb": {
+    "ts": 1794751953.9158852,
+    "keyword": "Conectividad"
+  },
+  "7107d88b8e89ed2a93b1cd44": {
+    "ts": 1794752089.3102617,
+    "keyword": "Roberto Luque"
   }
 }
