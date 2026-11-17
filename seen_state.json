@@ -150,5 +150,41 @@
   "df079b662ab01658bcd95de1": {
     "ts": 1794903664.2608647,
     "keyword": "ANT"
+  },
+  "70ac9127204aff747eb548a6": {
+    "ts": 1794937462.3623993,
+    "keyword": "Cierre vial"
+  },
+  "a080ac4ce2877fe1b87f8f7d": {
+    "ts": 1794937688.4425976,
+    "keyword": "Registro Civil"
+  },
+  "910f990a781cda8f4b5e6a2c": {
+    "ts": 1794937690.0730848,
+    "keyword": "Registro Civil"
+  },
+  "8704bcea5d9246b0a99feac8": {
+    "ts": 1794937691.7071934,
+    "keyword": "Registro Civil"
+  },
+  "8bae4cc4ca7b8307f1090d80": {
+    "ts": 1794937693.392418,
+    "keyword": "Registro Civil"
+  },
+  "a3c951dbad41cf9de7194950": {
+    "ts": 1794937695.0211859,
+    "keyword": "Registro Civil"
+  },
+  "dcfb37dbadd6d73b3eba61e7": {
+    "ts": 1794937696.6595683,
+    "keyword": "Registro Civil"
+  },
+  "d517029e819e6af2794c7c54": {
+    "ts": 1794937744.932532,
+    "keyword": "ANT"
+  },
+  "e3b8062be4d2ec72af5560e5": {
+    "ts": 1794937746.5678039,
+    "keyword": "ANT"
   }
 }
