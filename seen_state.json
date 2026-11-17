@@ -1,48 +1,4 @@
 {
-  "896897ed180b5cb71b1b7b2e": {
-    "ts": 1794260439.0597546,
-    "keyword": "Cierre vial"
-  },
-  "f6f39988287373987433aedf": {
-    "ts": 1794260440.564309,
-    "keyword": "Cierre vial"
-  },
-  "030474eecab9729c40117f11": {
-    "ts": 1794260508.0487611,
-    "keyword": "Buses"
-  },
-  "cf794d2e5a1a3453f5bbb22e": {
-    "ts": 1794260509.5545235,
-    "keyword": "Buses"
-  },
-  "e105e4aa444773e9b59307db": {
-    "ts": 1794260584.5980976,
-    "keyword": "Conectividad"
-  },
-  "408a30419d07d37ae6046904": {
-    "ts": 1794260723.926197,
-    "keyword": "CTE"
-  },
-  "dc990c776f2bd73a77b798fc": {
-    "ts": 1794260725.5137727,
-    "keyword": "CTE"
-  },
-  "aef38d6ed42fa9d7864d6963": {
-    "ts": 1794260727.0125644,
-    "keyword": "CTE"
-  },
-  "ae3b5ccf5acca88be8814493": {
-    "ts": 1794260728.5145767,
-    "keyword": "CTE"
-  },
-  "989e40e8bf7b4e7113c56b8d": {
-    "ts": 1794260730.0235496,
-    "keyword": "CTE"
-  },
-  "3b6650a72c0033670f745340": {
-    "ts": 1794260756.301332,
-    "keyword": "Roberto Luque"
-  },
   "03cc97aab16dff93ce49663e": {
     "ts": 1794282741.367206,
     "keyword": "PROGEN"
@@ -198,5 +154,13 @@
   "d489dffbd4a56c8524f228ee": {
     "ts": 1794845217.5280082,
     "keyword": "Vía"
+  },
+  "b24e2ddbd0d4d3464df0fed2": {
+    "ts": 1794875127.3485882,
+    "keyword": "Internet"
+  },
+  "db53b40d747a8261e3cb4f40": {
+    "ts": 1794875240.9273632,
+    "keyword": "ANT"
   }
 }
