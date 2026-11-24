@@ -1,8 +1,4 @@
 {
-  "d489dffbd4a56c8524f228ee": {
-    "ts": 1794845217.5280082,
-    "keyword": "Vía"
-  },
   "b24e2ddbd0d4d3464df0fed2": {
     "ts": 1794875127.3485882,
     "keyword": "Internet"
@@ -186,5 +182,25 @@
   "fcfe807aef6f80f1f1679143": {
     "ts": 1795436500.7341845,
     "keyword": "Celulares"
+  },
+  "68f5271b1c90005fa58bcf6c": {
+    "ts": 1795478645.560535,
+    "keyword": "MIT"
+  },
+  "7caa9816129d47b3ed4657db": {
+    "ts": 1795478785.2167017,
+    "keyword": "Quinto Puente"
+  },
+  "43de85ddf9c16f18980eb446": {
+    "ts": 1795478891.7197144,
+    "keyword": "Cierre vial"
+  },
+  "909ef5423bf0ea343e6a03c7": {
+    "ts": 1795479130.672293,
+    "keyword": "Registro Civil"
+  },
+  "e645b547b404af1a27e52834": {
+    "ts": 1795479132.1941533,
+    "keyword": "Registro Civil"
   }
 }
