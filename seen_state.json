@@ -1,24 +1,4 @@
 {
-  "562483a019e7c2556c971913": {
-    "ts": 1795019821.5943449,
-    "keyword": "Cierre vial"
-  },
-  "59eee4193fd121bb285c7054": {
-    "ts": 1795043483.378335,
-    "keyword": "PROGEN"
-  },
-  "b860a0e3edf6b9c8f0fe13b1": {
-    "ts": 1795043577.594332,
-    "keyword": "Vía"
-  },
-  "c0d3a6809d6c4d621bc06410": {
-    "ts": 1795043656.3879738,
-    "keyword": "Cierre vial"
-  },
-  "5500b2b30980927dc9bf948f": {
-    "ts": 1795043893.755679,
-    "keyword": "Registro Civil"
-  },
   "ff40afd7ce24f22118f45e5f": {
     "ts": 1795062270.5976136,
     "keyword": "CTE"
@@ -162,5 +142,25 @@
   "531e1a2b0335c540b42550a3": {
     "ts": 1795616278.7957923,
     "keyword": "Registro Civil"
+  },
+  "9eb5a39ae5ea31fa463ff8ea": {
+    "ts": 1795648240.6352315,
+    "keyword": "PROGEN"
+  },
+  "114d56b7e80f26f18cf89414": {
+    "ts": 1795648398.175598,
+    "keyword": "Cierre vial"
+  },
+  "20dd125ab300940ecfffa640": {
+    "ts": 1795648411.8292427,
+    "keyword": "Fenómeno del Niño"
+  },
+  "7a7d5d13048bb4d628c7f811": {
+    "ts": 1795648469.2861602,
+    "keyword": "Buses"
+  },
+  "db619e18a66b1954c5b1bbac": {
+    "ts": 1795648725.170993,
+    "keyword": "CTE"
   }
 }
