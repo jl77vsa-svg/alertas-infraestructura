@@ -1,40 +1,4 @@
 {
-  "42c942dfd20f3dec76b83ac0": {
-    "ts": 1795125027.9300451,
-    "keyword": "Vía"
-  },
-  "22f1d9499a7169e39a8fe328": {
-    "ts": 1795125091.3792226,
-    "keyword": "Cierre vial"
-  },
-  "06b4845686eee66f55ca79aa": {
-    "ts": 1795125093.0372503,
-    "keyword": "Cierre vial"
-  },
-  "c48926f0b642972c68507c6f": {
-    "ts": 1795125105.3064535,
-    "keyword": "Fenómeno del Niño"
-  },
-  "95f9762c09532be34e8e9753": {
-    "ts": 1795125280.5971787,
-    "keyword": "Celulares"
-  },
-  "5dcf280bdf219ddeeca89127": {
-    "ts": 1795125317.578922,
-    "keyword": "Registro Civil"
-  },
-  "aa7024eccbcfbf692c42ad57": {
-    "ts": 1795125376.7874758,
-    "keyword": "CTE"
-  },
-  "74bb243b91a916deb51d1e5e": {
-    "ts": 1795125378.4157546,
-    "keyword": "CTE"
-  },
-  "b4a4d33284b164999b98073b": {
-    "ts": 1795125380.0320144,
-    "keyword": "CTE"
-  },
   "d66e1563a5081e20be297020": {
     "ts": 1795143125.376402,
     "keyword": "CTE"
@@ -166,5 +130,25 @@
   "111c787eb556e86a6aeb6385": {
     "ts": 1795707251.627272,
     "keyword": "Internet"
+  },
+  "2fb3e00a6a4b292b2d02379b": {
+    "ts": 1795737696.3462195,
+    "keyword": "Vía"
+  },
+  "15b6ed31c4e5657d3bad3924": {
+    "ts": 1795737697.9490273,
+    "keyword": "Vía"
+  },
+  "0ce0b114e01256f58a52b5c3": {
+    "ts": 1795737769.511213,
+    "keyword": "Derrumbe"
+  },
+  "abdc21f84839a659b0a89cc0": {
+    "ts": 1795737965.6021762,
+    "keyword": "Conectividad"
+  },
+  "0002bc8dde3c6671989bd6f9": {
+    "ts": 1795738040.6440945,
+    "keyword": "Registro Civil"
   }
 }
