@@ -1,8 +1,4 @@
 {
-  "a47413d2534bcc11821dfa5c": {
-    "ts": 1795171105.289723,
-    "keyword": "Vía"
-  },
   "90318b4448ba605da902e36a": {
     "ts": 1795200892.769155,
     "keyword": "Vía"
@@ -158,5 +154,33 @@
   "9bc8b984d7c98f15aa4db0e8": {
     "ts": 1795767582.3926685,
     "keyword": "Roberto Luque"
+  },
+  "f03118e4dfbc4494b7d69851": {
+    "ts": 1795803858.5432072,
+    "keyword": "Registro Civil"
+  },
+  "b36bb6bcbd03215fd646f360": {
+    "ts": 1795803860.074147,
+    "keyword": "Registro Civil"
+  },
+  "5710795604074dfac13438ca": {
+    "ts": 1795803861.5981665,
+    "keyword": "Registro Civil"
+  },
+  "32ce5acd6bd7b3167d9f2d71": {
+    "ts": 1795803863.1322007,
+    "keyword": "Registro Civil"
+  },
+  "ac833359fe43fe1a1f168aa7": {
+    "ts": 1795803864.6552656,
+    "keyword": "Registro Civil"
+  },
+  "9af687960c4b40b87a3cdf16": {
+    "ts": 1795803866.1737876,
+    "keyword": "Registro Civil"
+  },
+  "b45ef40324fa0442b2d66f51": {
+    "ts": 1795803926.559045,
+    "keyword": "CTE"
   }
 }
