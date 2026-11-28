@@ -1,16 +1,4 @@
 {
-  "90318b4448ba605da902e36a": {
-    "ts": 1795200892.769155,
-    "keyword": "Vía"
-  },
-  "2885f21132e54abcaa3f40ca": {
-    "ts": 1795200894.2470334,
-    "keyword": "Vía"
-  },
-  "45978e0063611507587199d9": {
-    "ts": 1795200895.705025,
-    "keyword": "Vía"
-  },
   "4ba290cab7a4b4b601ca0402": {
     "ts": 1795275763.7143617,
     "keyword": "Vía"
@@ -182,5 +170,61 @@
   "b45ef40324fa0442b2d66f51": {
     "ts": 1795803926.559045,
     "keyword": "CTE"
+  },
+  "66d71abc17bfb197d4887bac": {
+    "ts": 1795829624.23909,
+    "keyword": "Vía"
+  },
+  "a205aeb13fffc7a5b5c11dc7": {
+    "ts": 1795829625.865339,
+    "keyword": "Vía"
+  },
+  "24df2c4400cd1585511fd887": {
+    "ts": 1795829872.3806167,
+    "keyword": "Celulares"
+  },
+  "991478dd0221935b5bdee4ae": {
+    "ts": 1795829909.3615441,
+    "keyword": "Registro Civil"
+  },
+  "44b2c0f8317e5dfee3c454bd": {
+    "ts": 1795829910.9284816,
+    "keyword": "Registro Civil"
+  },
+  "49d221c41367fa1ce133a4f7": {
+    "ts": 1795829912.5573409,
+    "keyword": "Registro Civil"
+  },
+  "57e4bd96506ac7cff3b116d1": {
+    "ts": 1795829914.2056363,
+    "keyword": "Registro Civil"
+  },
+  "69743a6bb0cb7a00ebaab062": {
+    "ts": 1795829915.7765806,
+    "keyword": "Registro Civil"
+  },
+  "a5f1751c7d5169bfc6902116": {
+    "ts": 1795829917.4134376,
+    "keyword": "Registro Civil"
+  },
+  "8ca619ef10369e305d5f2479": {
+    "ts": 1795829918.987559,
+    "keyword": "Registro Civil"
+  },
+  "2a7fc250a935b999f094b32c": {
+    "ts": 1795829920.621065,
+    "keyword": "Registro Civil"
+  },
+  "0ab94908f52154c7bd62f2b9": {
+    "ts": 1795829922.2261794,
+    "keyword": "Registro Civil"
+  },
+  "75c9dfc5bd361d5dc3a4c6e5": {
+    "ts": 1795829923.89623,
+    "keyword": "Registro Civil"
+  },
+  "edb2c33982283040617fd711": {
+    "ts": 1795829925.46806,
+    "keyword": "Registro Civil"
   }
 }
